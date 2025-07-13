@@ -1,0 +1,18 @@
+{
+    "xlm_snapshot": "top",
+    "xlm_lib": "worklib",
+    "xlm_view": "sv",
+    "lwd_version": "02\/19\/24+04:41:25",
+    "install_root": "\/home\/cc\/mnt\/XCELIUM2309",
+    "xlm_version": "23.09-s006",
+    "build_date": "2024.02.19",
+    "xlm_plat": "x86_64",
+    "xlm_bits": "64",
+    "real_as_wreal": "0",
+    "encrypted_sources": "0",
+    "reals_recorded": "0",
+    "features":
+    {
+        "AVSREQ_195145": "1"
+    }
+}

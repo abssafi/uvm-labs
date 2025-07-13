@@ -1,0 +1,16 @@
+lwd_dir /home/cc/abs/uvm/lab39/task1_seqs/tb/xcelium.d/worklib/top/sv/debug_db/top/../..
+snapshot_name worklib.top:sv
+cells 1
+hostname ncdc-0053
+work_directory /home/cc/abs/uvm/lab39/task1_seqs/tb
+autofetch 0
+persistent_sources 0
+cdslib ./xcelium.d/run.lnx8664.23.09.d/cds.lib
+cds_implicit_tmplib worklib
+hdlvar ./xcelium.d/run.lnx8664.23.09.d/hdl.var
+platform x86_64
+bits 64
+du-agent YES
+xprop 0
+automsie 0
+cds_libs /home/cc/abs/uvm/lab39/task1_seqs/tb/xcelium.d/run.lnx8664.23.09.d/cds.lib /home/cc/abs/uvm/lab39/task1_seqs/tb/xcelium.d/run.lnx8664.23.09.d/cdsrun.lib /home/cc/mnt/XCELIUM2309/tools/inca/files/cds.lib /home/cc/mnt/XCELIUM2309/tools/inca/files/cdsvhdl.lib /home/cc/mnt/XCELIUM2309/tools/inca/files/cdsvlog.lib /home/cc/mnt/XCELIUM2309/tools/transrecord/files/cds.lib

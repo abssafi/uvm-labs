@@ -1,0 +1,18 @@
+//
+// File created by:  xrun
+// Do not modify this file
+
+s1::(29Jun2025:12:37:24):( xrun -f file.f -access +rwc )
+s2::(29Jun2025:12:39:02):( xrun -f file.f -access +rwc )
+s3::(29Jun2025:12:40:44):( xrun -f file.f -access +rwc )
+s4::(29Jun2025:12:44:28):( xrun -f file.f -access +rwc )
+s5::(29Jun2025:13:30:08):( xrun -f file.f -access +rwc -gui )
+s6::(29Jun2025:13:54:21):( xrun -f file.f -access +rwc -gui )
+s7::(29Jun2025:13:54:39):( xrun -f file.f -access +rwc -gui )
+s8::(29Jun2025:13:55:04):( xrun -f file.f -access +rwc -gui )
+s9::(29Jun2025:13:56:02):( xrun -f file.f -access +rwc -gui )
+s10::(29Jun2025:13:57:02):( xrun -f file.f -access +rwc -gui )
+s11::(29Jun2025:13:57:18):( xrun -f file.f -access +rwc -gui )
+s12::(29Jun2025:14:00:44):( xrun -f file.f -access +rwc -gui )
+s13::(29Jun2025:16:06:18):( xrun -f file.f -access +rwc -gui )
+s14::(29Jun2025:16:08:19):( xrun -f file.f -access +rwc -gui )

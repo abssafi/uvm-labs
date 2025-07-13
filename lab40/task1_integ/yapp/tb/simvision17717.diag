@@ -1,0 +1,115 @@
+*** Message Type: info ***
+When: Sun Jun 29 02:00:46 PM PKT 2025
+SimVision started.
+Version: TOOL:  simvision(64)   23.09-s006
+User: cc
+Host: ncdc-0053
+Platform: Linux/x86_64/4.18.0-372.32.1.el8_6.x86_64
+Started: Sun Jun 29 02:00:46 PM PKT 2025
+Command: /home/cc/mnt/XCELIUM2309/tools.lnx86/simvision/bin/64bit/simvision.exe -connect dc:ncdc-0053:51631 -64BIT -nocopyright
+Work Directory: /home/cc/abs/uvm/lab40/task1_integ/yapp/tb
+ 
+*** Message Type: info ***
+When: Sun Jun 29 02:00:46 PM PKT 2025
+Create browser window: "Design Browser 1"
+ 
+*** Message Type: info ***
+When: Sun Jun 29 02:00:47 PM PKT 2025
+Create console window: "Console"
+ 
+*** Message Type: info ***
+When: Sun Jun 29 02:00:48 PM PKT 2025
+Connect to Simulator
+      Design: worklib.top:sv
+   Languages: verilog assertion
+   Simulator: XM-Sim
+     Version: TOOL:   xmsim(64)       23.09-s006
+        User: cc
+        Host: ncdc-0053
+Time Started: Sun Jun 29 02:00:45 PM PKT 2025
+  Process ID: 17610
+   Directory: /home/cc/abs/uvm/lab40/task1_integ/yapp/tb
+     Command: xrun -f file.f -access +rwc -gui
+
+ 
+*** Message Type: info ***
+When: Sun Jun 29 02:00:49 PM PKT 2025
+Create utility window: "Properties"
+ 
+*** Message Type: info ***
+When: Sun Jun 29 02:01:45 PM PKT 2025
+Create waveform window: "Waveform 1"
+ 
+*** Message Type: error ***
+When: Sun Jun 29 02:02:44 PM PKT 2025
+can't find field "-signal"  in node "4
+    while executing
+"$_tree get $id -signal"
+    ("default" arm line 2)
+    invoked from within
+"switch -- [type $id] {
+                group - overlay - transaction - comment - pending - cdivider {
+             continue
+           }
+              default {
+                  set fname [dac::name [$_t..."
+    (object "::.waveWindow0.work.user.waveset" method "::WaveSet::_drag" body line 17)
+    invoked from within
+"::.waveWindow0.work.user.waveset _drag text/signal"
+    (in namespace inscope "::WaveSet" script line 1)
+    invoked from within
+"namespace inscope ::WaveSet {::.waveWindow0.work.user.waveset _drag text/signal}"
+    invoked from within
+"list  {SV_WAVEFORM} [namespace inscope ::WaveSet {::.waveWindow0.work.user.waveset _drag SV_WAVEFORM}] {SV_SIGNAL} [namespace inscope ::WaveSet {::.wa..."
+    invoked from within
+"list {copy} [list  {SV_WAVEFORM} [namespace inscope ::WaveSet {::.waveWindow0.work.user.waveset _drag SV_WAVEFORM}] {SV_SIGNAL} [namespace inscope ::W..."
+    ("uplevel" body line 1)
+    invoked from within
+"uplevel \#0 $cmd"
+    (procedure "tkdnd::_init_drag" line 10)
+    invoked from within
+"tkdnd::_init_drag 0 $window  "press" 0 0"
+    ("drag" arm line 11)
+    invoked from within
+"switch $method {
+    bindtarget {
+      switch [llength $args] {
+        0 {return [tkdnd::compat::bindtarget0 $window]}
+        1 {return [tkdnd::com..."
+    (procedure "::dnd" line 4)
+    invoked from within
+"::dnd drag .waveWindow0.work.user.waveset.signallist -actions copy -id {17717 ::.waveWindow0.work.user.waveset}"
+    ("eval" body line 1)
+    invoked from within
+"# Compiled -- no source code available
+error "called a copy of a compiled script""
+    (procedure "cwidgets::dnd" line 1)
+    invoked from within
+"cwidgets::dnd drag .waveWindow0.work.user.waveset.signallist -actions copy -id {17717 ::.waveWindow0.work.user.waveset}"
+    ("eval" body line 1)
+    invoked from within
+"# Compiled -- no source code available
+error "called a copy of a compiled script""
+    (procedure "::svdnd" line 1)
+    invoked from within
+"::svdnd drag $win -actions {copy} -id [list [pid] $this]"
+    (object "::.waveWindow0.work.user.waveset" method "::WaveSet::_delayedStartDND" body line 35)
+    invoked from within
+"::.waveWindow0.work.user.waveset _delayedStartDND .waveWindow0.work.user.waveset.signallist 4 68 172 1"
+    (in namespace inscope "::WaveSet" script line 1)
+    invoked from within
+"namespace inscope ::WaveSet {::.waveWindow0.work.user.waveset _delayedStartDND .waveWindow0.work.user.waveset.signallist 4 68 172 1}"
+    ("after" script)
+ 
+*** Message Type: info ***
+When: Sun Jun 29 02:04:05 PM PKT 2025
+Create source window: "Source Browser 1"
+ 
+*** Message Type: info ***
+When: Sun Jun 29 02:04:08 PM PKT 2025
+Delete source window: "Source Browser 1"
+ 
+*** Message Type: info ***
+When: Sun Jun 29 04:05:53 PM PKT 2025
+SimVision Exit.
+ 

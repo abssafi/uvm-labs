@@ -1,0 +1,7 @@
+//
+// File created by:  xrun
+// Do not modify this file
+
+s1::(08Jul2025:19:38:35):( xrun -uvmhome default +uvm_set_config_string=*,uvm_reg_generate_access_file_seq::file_name,access_file ./cdns_uvmreg_utils_pkg.sv ./yapp_router_regs_rdb.sv ./quicktest.sv -log xrun_gen_access.log +UVM_TESTNAME=access_test )
+s2::(08Jul2025:19:38:47):( xrun -uvmhome default ./cdns_uvmreg_utils_pkg.sv ./yapp_router_regs_rdb.sv ./quicktest.sv -vclass_ext +UVM_TESTNAME=qt_test )
+s3::(09Jul2025:08:55:16):( xrun -uvmhome default ./cdns_uvmreg_utils_pkg.sv ./yapp_router_regs_rdb.sv ./quicktest.sv -vclass_ext +UVM_TESTNAME=qt_test )

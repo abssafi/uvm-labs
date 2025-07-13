@@ -1,0 +1,1447 @@
+06/18/2025 18:37:40 (319651-870158016 xmsim): Initialization started (19.02-s004)...
+06/18/2025 18:37:40 (319651-870158016): FLEXnet version 11.11.1.1 build 119913
+06/18/2025 18:37:40 (319651-870158016): Process ID 22923
+06/18/2025 18:37:40 (319651-870158016): Creating a new job ...
+06/18/2025 18:37:40 (319651-870158016): Validating server path: 
+06/18/2025 18:37:40 (319651-870158016): Server path validation status: 0
+06/18/2025 18:37:40 (319651-870158016):   Configuration of license path is '5280@10.19.32.90'.
+06/18/2025 18:37:40 (319651-870158016):   Configuration of recheck interval minimum is 290.
+06/18/2025 18:37:40 (319651-870158016):   Configuration of 2000000000 maximum retry calls.
+06/18/2025 18:37:40 (319651-870158016):   Configuration of sleep time value of 0.
+06/18/2025 18:37:40 (319651-870158016):   Configuration of display specification is ':1'.
+06/18/2025 18:37:40 (319651-870158016):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/18/2025 18:37:40 (319651-870158016):   (System spec would have been cc@ncdc-0053(/dev/pts/1) )
+06/18/2025 18:37:40 (319651-870158016): Job creation completed with status 0 (time 0).
+06/18/2025 18:37:40 (319651-870158016): Creating a new job ...
+06/18/2025 18:37:40 (319651-870158016):   Configuration of license path is '5280@10.19.32.90'.
+06/18/2025 18:37:40 (319651-870158016):   Configuration of recheck interval minimum is 290.
+06/18/2025 18:37:40 (319651-870158016):   Configuration of 2000000000 maximum retry calls.
+06/18/2025 18:37:40 (319651-870158016):   Configuration of sleep time value of 0.
+06/18/2025 18:37:40 (319651-870158016):   Configuration of display specification is ':1'.
+06/18/2025 18:37:40 (319651-870158016):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/18/2025 18:37:40 (319651-870158016):   (System spec would have been cc@ncdc-0053(/dev/pts/1) )
+06/18/2025 18:37:40 (319651-870158016): Job creation completed with status 0 (time 0).
+06/18/2025 18:37:40 (319651-870158016): Creating a new job ...
+06/18/2025 18:37:40 (319651-870158016):   Configuration of license path is '5280@10.19.32.90'.
+06/18/2025 18:37:40 (319651-870158016):   Configuration of recheck interval minimum is 290.
+06/18/2025 18:37:40 (319651-870158016):   Configuration of 2000000000 maximum retry calls.
+06/18/2025 18:37:40 (319651-870158016):   Configuration of sleep time value of 0.
+06/18/2025 18:37:40 (319651-870158016):   Configuration of display specification is ':1'.
+06/18/2025 18:37:40 (319651-870158016):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/18/2025 18:37:40 (319651-870158016):   (System spec would have been cc@ncdc-0053(/dev/pts/1) )
+06/18/2025 18:37:40 (319651-870158016): Job creation completed with status 0 (time 0).
+06/18/2025 18:37:40 (319651-870158016): Creating a new job ...
+06/18/2025 18:37:40 (319651-870158016):   Configuration of license path is '5280@10.19.32.90'.
+06/18/2025 18:37:40 (319651-870158016):   Configuration of recheck interval minimum is 290.
+06/18/2025 18:37:40 (319651-870158016):   Configuration of 2000000000 maximum retry calls.
+06/18/2025 18:37:40 (319651-870158016):   Configuration of sleep time value of 0.
+06/18/2025 18:37:40 (319651-870158016):   Configuration of display specification is ':1'.
+06/18/2025 18:37:40 (319651-870158016):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/18/2025 18:37:40 (319651-870158016):   (System spec would have been cc@ncdc-0053(/dev/pts/1) )
+06/18/2025 18:37:40 (319651-870158016): Job creation completed with status 0 (time 0).
+06/18/2025 18:37:40 (319651-870158016): Initialization completed with status 0 (time 0).
+06/18/2025 18:37:40 (319651-870158016): Check-out (Increment) started ....
+06/18/2025 18:37:40 (319651-870158016): Checking out 1 license(s) for Xcelium_Single_Core 23.000...
+06/18/2025 18:37:40 (319651-870158016):   (Checked out from file '5280@10.19.32.90',
+             line '24.0 14-apr-2027 40 3F28D8A80C6ED56BB09C ')
+06/18/2025 18:37:40 (319651-870158016): Check-out (Increment) completed with status 0 (time 0).
+06/18/2025 18:37:41 (319651-870158016): Recheck started ....
+06/18/2025 18:37:41 (319651-870158016):   Checking feature Xcelium_Single_Core
+06/18/2025 18:37:41 (319651-870158016):   Time spent in server Recheck was 0.
+06/18/2025 18:37:41 (319651-870158016): Re-check completed with status 0 (time 0).
+06/18/2025 18:37:41 (319651-870158016): Recheck started ....
+06/18/2025 18:37:41 (319651-870158016):   Actual recheck skipped due to recheck interval...
+06/18/2025 18:37:41 (319651-870158016): Re-check completed with status 0 (time 0).
+06/18/2025 18:37:41 (319651-870158016): Recheck started ....
+06/18/2025 18:37:41 (319651-870158016):   Actual recheck skipped due to recheck interval...
+06/18/2025 18:37:41 (319651-870158016): Re-check completed with status 0 (time 0).
+06/18/2025 18:37:41 (319651-870158016): Recheck started ....
+06/18/2025 18:37:41 (319651-870158016):   Actual recheck skipped due to recheck interval...
+06/18/2025 18:37:41 (319651-870158016): Re-check completed with status 0 (time 0).
+06/18/2025 18:37:41 (319651-870158016): Check-in started ....
+06/18/2025 18:37:41 (319651-870158016): Creating a new job ...
+06/18/2025 18:37:41 (319651-870158016): Validating server path: 5280@10.19.32.90
+06/18/2025 18:37:41 (319651-870158016): Server path validation status: 0
+06/18/2025 18:37:41 (319651-870158016):   Configuration of license path is '5280@10.19.32.90'.
+06/18/2025 18:37:41 (319651-870158016):   Configuration of recheck interval minimum is 290.
+06/18/2025 18:37:41 (319651-870158016):   Configuration of 2000000000 maximum retry calls.
+06/18/2025 18:37:41 (319651-870158016):   Configuration of sleep time value of 0.
+06/18/2025 18:37:41 (319651-870158016):   Configuration of display specification is ':1'.
+06/18/2025 18:37:41 (319651-870158016):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/18/2025 18:37:41 (319651-870158016):   (System spec would have been cc@ncdc-0053(/dev/pts/1) )
+06/18/2025 18:37:41 (319651-870158016): Job creation completed with status 0 (time 0).
+06/18/2025 18:37:41 (319651-870158016): Check-in of Xcelium_Single_Core completed with status 0 (time 0).
+06/18/2025 18:37:41 (319651-870158016): Exit started ....
+06/18/2025 18:37:41 (319651-870158016): Exit completed with status 0 (time 0).
+06/18/2025 18:39:22 (714430-2060897984 xmsim): Initialization started (19.02-s004)...
+06/18/2025 18:39:22 (714430-2060897984): FLEXnet version 11.11.1.1 build 119913
+06/18/2025 18:39:22 (714430-2060897984): Process ID 23087
+06/18/2025 18:39:22 (714430-2060897984): Creating a new job ...
+06/18/2025 18:39:22 (714430-2060897984): Validating server path: 
+06/18/2025 18:39:22 (714430-2060897984): Server path validation status: 0
+06/18/2025 18:39:22 (714430-2060897984):   Configuration of license path is '5280@10.19.32.90'.
+06/18/2025 18:39:22 (714430-2060897984):   Configuration of recheck interval minimum is 290.
+06/18/2025 18:39:22 (714430-2060897984):   Configuration of 2000000000 maximum retry calls.
+06/18/2025 18:39:22 (714430-2060897984):   Configuration of sleep time value of 0.
+06/18/2025 18:39:22 (714430-2060897984):   Configuration of display specification is ':1'.
+06/18/2025 18:39:22 (714430-2060897984):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/18/2025 18:39:22 (714430-2060897984):   (System spec would have been cc@ncdc-0053(/dev/pts/1) )
+06/18/2025 18:39:22 (714430-2060897984): Job creation completed with status 0 (time 0).
+06/18/2025 18:39:22 (714430-2060897984): Creating a new job ...
+06/18/2025 18:39:22 (714430-2060897984):   Configuration of license path is '5280@10.19.32.90'.
+06/18/2025 18:39:22 (714430-2060897984):   Configuration of recheck interval minimum is 290.
+06/18/2025 18:39:22 (714430-2060897984):   Configuration of 2000000000 maximum retry calls.
+06/18/2025 18:39:22 (714430-2060897984):   Configuration of sleep time value of 0.
+06/18/2025 18:39:22 (714430-2060897984):   Configuration of display specification is ':1'.
+06/18/2025 18:39:22 (714430-2060897984):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/18/2025 18:39:22 (714430-2060897984):   (System spec would have been cc@ncdc-0053(/dev/pts/1) )
+06/18/2025 18:39:22 (714430-2060897984): Job creation completed with status 0 (time 0).
+06/18/2025 18:39:22 (714430-2060897984): Creating a new job ...
+06/18/2025 18:39:22 (714430-2060897984):   Configuration of license path is '5280@10.19.32.90'.
+06/18/2025 18:39:22 (714430-2060897984):   Configuration of recheck interval minimum is 290.
+06/18/2025 18:39:22 (714430-2060897984):   Configuration of 2000000000 maximum retry calls.
+06/18/2025 18:39:22 (714430-2060897984):   Configuration of sleep time value of 0.
+06/18/2025 18:39:22 (714430-2060897984):   Configuration of display specification is ':1'.
+06/18/2025 18:39:22 (714430-2060897984):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/18/2025 18:39:22 (714430-2060897984):   (System spec would have been cc@ncdc-0053(/dev/pts/1) )
+06/18/2025 18:39:22 (714430-2060897984): Job creation completed with status 0 (time 0).
+06/18/2025 18:39:22 (714430-2060897984): Creating a new job ...
+06/18/2025 18:39:22 (714430-2060897984):   Configuration of license path is '5280@10.19.32.90'.
+06/18/2025 18:39:22 (714430-2060897984):   Configuration of recheck interval minimum is 290.
+06/18/2025 18:39:22 (714430-2060897984):   Configuration of 2000000000 maximum retry calls.
+06/18/2025 18:39:22 (714430-2060897984):   Configuration of sleep time value of 0.
+06/18/2025 18:39:22 (714430-2060897984):   Configuration of display specification is ':1'.
+06/18/2025 18:39:22 (714430-2060897984):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/18/2025 18:39:22 (714430-2060897984):   (System spec would have been cc@ncdc-0053(/dev/pts/1) )
+06/18/2025 18:39:22 (714430-2060897984): Job creation completed with status 0 (time 0).
+06/18/2025 18:39:22 (714430-2060897984): Initialization completed with status 0 (time 0).
+06/18/2025 18:39:22 (714430-2060897984): Check-out (Increment) started ....
+06/18/2025 18:39:22 (714430-2060897984): Checking out 1 license(s) for Xcelium_Single_Core 23.000...
+06/18/2025 18:39:22 (714430-2060897984):   (Checked out from file '5280@10.19.32.90',
+             line '24.0 14-apr-2027 40 3F28D8A80C6ED56BB09C ')
+06/18/2025 18:39:22 (714430-2060897984): Check-out (Increment) completed with status 0 (time 0).
+06/18/2025 18:39:22 (714446-2034120128 simvision.exe): Initialization started (19.02-s004)...
+06/18/2025 18:39:22 (714446-2034120128): FLEXnet version 11.11.1.1 build 119913
+06/18/2025 18:39:22 (714446-2034120128): Process ID 23103
+06/18/2025 18:39:22 (714446-2034120128): Creating a new job ...
+06/18/2025 18:39:23 (714446-2034120128): Validating server path: 
+06/18/2025 18:39:23 (714446-2034120128): Server path validation status: 0
+06/18/2025 18:39:23 (714446-2034120128):   Configuration of license path is '5280@10.19.32.90'.
+06/18/2025 18:39:23 (714446-2034120128):   Configuration of recheck interval minimum is 290.
+06/18/2025 18:39:23 (714446-2034120128):   Configuration of 2000000000 maximum retry calls.
+06/18/2025 18:39:23 (714446-2034120128):   Configuration of sleep time value of 0.
+06/18/2025 18:39:23 (714446-2034120128):   Configuration of display specification is ':1'.
+06/18/2025 18:39:23 (714446-2034120128):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/18/2025 18:39:23 (714446-2034120128):   (System spec would have been cc@ncdc-0053(/dev/pts/1) )
+06/18/2025 18:39:23 (714446-2034120128): Job creation completed with status 0 (time 1).
+06/18/2025 18:39:23 (714446-2034120128): Creating a new job ...
+06/18/2025 18:39:23 (714446-2034120128):   Configuration of license path is '5280@10.19.32.90'.
+06/18/2025 18:39:23 (714446-2034120128):   Configuration of recheck interval minimum is 290.
+06/18/2025 18:39:23 (714446-2034120128):   Configuration of 2000000000 maximum retry calls.
+06/18/2025 18:39:23 (714446-2034120128):   Configuration of sleep time value of 0.
+06/18/2025 18:39:23 (714446-2034120128):   Configuration of display specification is ':1'.
+06/18/2025 18:39:23 (714446-2034120128):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/18/2025 18:39:23 (714446-2034120128):   (System spec would have been cc@ncdc-0053(/dev/pts/1) )
+06/18/2025 18:39:23 (714446-2034120128): Job creation completed with status 0 (time 0).
+06/18/2025 18:39:23 (714446-2034120128): Creating a new job ...
+06/18/2025 18:39:23 (714446-2034120128):   Configuration of license path is '5280@10.19.32.90'.
+06/18/2025 18:39:23 (714446-2034120128):   Configuration of recheck interval minimum is 290.
+06/18/2025 18:39:23 (714446-2034120128):   Configuration of 2000000000 maximum retry calls.
+06/18/2025 18:39:23 (714446-2034120128):   Configuration of sleep time value of 0.
+06/18/2025 18:39:23 (714446-2034120128):   Configuration of display specification is ':1'.
+06/18/2025 18:39:23 (714446-2034120128):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/18/2025 18:39:23 (714446-2034120128):   (System spec would have been cc@ncdc-0053(/dev/pts/1) )
+06/18/2025 18:39:23 (714446-2034120128): Job creation completed with status 0 (time 0).
+06/18/2025 18:39:23 (714446-2034120128): Creating a new job ...
+06/18/2025 18:39:23 (714446-2034120128):   Configuration of license path is '5280@10.19.32.90'.
+06/18/2025 18:39:23 (714446-2034120128):   Configuration of recheck interval minimum is 290.
+06/18/2025 18:39:23 (714446-2034120128):   Configuration of 2000000000 maximum retry calls.
+06/18/2025 18:39:23 (714446-2034120128):   Configuration of sleep time value of 0.
+06/18/2025 18:39:23 (714446-2034120128):   Configuration of display specification is ':1'.
+06/18/2025 18:39:23 (714446-2034120128):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/18/2025 18:39:23 (714446-2034120128):   (System spec would have been cc@ncdc-0053(/dev/pts/1) )
+06/18/2025 18:39:23 (714446-2034120128): Job creation completed with status 0 (time 0).
+06/18/2025 18:39:23 (714446-2034120128): Initialization completed with status 0 (time 1).
+06/18/2025 18:39:23 (714446-2034120128): Check-out started ....
+06/18/2025 18:39:23 (714446-2034120128): Checking out 1 license(s) for Affirma_sim_analysis_env 16.000...
+06/18/2025 18:39:23 (714446-2034120128):   (Checked out from file '5280@10.19.32.90',
+             line '23.1 14-apr-2027 80 6F7818C80659BC16B032 ')
+06/18/2025 18:39:23 (714446-2034120128): Check-out completed with status 0 (time 0).
+06/18/2025 18:39:24 (714446-2034120128): FeatureStatus started ....
+06/18/2025 18:39:24 (714446-2034120128): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:39:24 (714446-2034120128): FeatureStatus started ....
+06/18/2025 18:39:24 (714446-2034120128): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:39:24 (714446-2034120128): FeatureStatus started ....
+06/18/2025 18:39:24 (714446-2034120128): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:39:24 (714446-2034120128): FeatureStatus started ....
+06/18/2025 18:39:24 (714446-2034120128): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:39:24 (714446-2034120128): FeatureStatus started ....
+06/18/2025 18:39:24 (714446-2034120128): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:39:24 (714446-2034120128): FeatureStatus started ....
+06/18/2025 18:39:24 (714446-2034120128): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:39:24 (714446-2034120128): FeatureStatus started ....
+06/18/2025 18:39:24 (714446-2034120128): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:39:24 (714446-2034120128): FeatureStatus started ....
+06/18/2025 18:39:24 (714446-2034120128): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:39:24 (714446-2034120128): FeatureStatus started ....
+06/18/2025 18:39:24 (714446-2034120128): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:39:25 (714446-2034120128): FeatureStatus started ....
+06/18/2025 18:39:25 (714446-2034120128): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:39:25 (714446-2034120128): FeatureStatus started ....
+06/18/2025 18:39:25 (714446-2034120128): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:39:25 (714446-2034120128): FeatureStatus started ....
+06/18/2025 18:39:25 (714446-2034120128): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:39:25 (714446-2034120128): FeatureStatus started ....
+06/18/2025 18:39:25 (714446-2034120128): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:39:25 (714446-2034120128): FeatureStatus started ....
+06/18/2025 18:39:25 (714446-2034120128): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:39:25 (714446-2034120128): FeatureStatus started ....
+06/18/2025 18:39:25 (714446-2034120128): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:39:25 (714430-2060897984): Recheck started ....
+06/18/2025 18:39:25 (714430-2060897984):   Checking feature Xcelium_Single_Core
+06/18/2025 18:39:25 (714430-2060897984):   Time spent in server Recheck was 0.
+06/18/2025 18:39:25 (714430-2060897984): Re-check completed with status 0 (time 0).
+06/18/2025 18:39:25 (714430-2060897984): Recheck started ....
+06/18/2025 18:39:25 (714430-2060897984):   Actual recheck skipped due to recheck interval...
+06/18/2025 18:39:25 (714430-2060897984): Re-check completed with status 0 (time 0).
+06/18/2025 18:39:25 (714446-2034120128): FeatureStatus started ....
+06/18/2025 18:39:25 (714446-2034120128): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:39:25 (714446-2034120128): FeatureStatus started ....
+06/18/2025 18:39:25 (714446-2034120128): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:39:26 (714446-2034120128): FeatureStatus started ....
+06/18/2025 18:39:26 (714446-2034120128): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:39:26 (714446-2034120128): FeatureStatus started ....
+06/18/2025 18:39:26 (714446-2034120128): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:39:26 (714446-2034120128): FeatureStatus started ....
+06/18/2025 18:39:26 (714446-2034120128): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:39:26 (714446-2034120128): FeatureStatus started ....
+06/18/2025 18:39:26 (714446-2034120128): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:39:26 (714446-2034120128): FeatureStatus started ....
+06/18/2025 18:39:26 (714446-2034120128): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:39:26 (714446-2034120128): FeatureStatus started ....
+06/18/2025 18:39:26 (714446-2034120128): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:39:27 (714446-2034120128): FeatureStatus started ....
+06/18/2025 18:39:27 (714446-2034120128): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:39:52 (714446-2034120128): FeatureStatus started ....
+06/18/2025 18:39:52 (714446-2034120128): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:39:52 (714446-2034120128): FeatureStatus started ....
+06/18/2025 18:39:52 (714446-2034120128): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:39:52 (714446-2034120128): FeatureStatus started ....
+06/18/2025 18:39:52 (714446-2034120128): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:39:52 (714446-2034120128): FeatureStatus started ....
+06/18/2025 18:39:52 (714446-2034120128): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:39:52 (714446-2034120128): FeatureStatus started ....
+06/18/2025 18:39:52 (714446-2034120128): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:39:52 (714446-2034120128): FeatureStatus started ....
+06/18/2025 18:39:52 (714446-2034120128): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:39:52 (714446-2034120128): FeatureStatus started ....
+06/18/2025 18:39:52 (714446-2034120128): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:39:55 (714430-2060897984): Recheck started ....
+06/18/2025 18:39:55 (714430-2060897984):   Actual recheck skipped due to recheck interval...
+06/18/2025 18:39:55 (714430-2060897984): Re-check completed with status 0 (time 0).
+06/18/2025 18:39:56 (714430-2060897984): Recheck started ....
+06/18/2025 18:39:56 (714430-2060897984):   Actual recheck skipped due to recheck interval...
+06/18/2025 18:39:56 (714430-2060897984): Re-check completed with status 0 (time 0).
+06/18/2025 18:39:56 (714430-2060897984): Recheck started ....
+06/18/2025 18:39:56 (714430-2060897984):   Actual recheck skipped due to recheck interval...
+06/18/2025 18:39:56 (714430-2060897984): Re-check completed with status 0 (time 0).
+06/18/2025 18:39:56 (714446-2034120128): FeatureStatus started ....
+06/18/2025 18:39:56 (714446-2034120128): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:39:56 (714446-2034120128): FeatureStatus started ....
+06/18/2025 18:39:56 (714446-2034120128): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:39:56 (714446-2034120128): FeatureStatus started ....
+06/18/2025 18:39:56 (714446-2034120128): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:39:56 (714446-2034120128): FeatureStatus started ....
+06/18/2025 18:39:56 (714446-2034120128): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:39:56 (714446-2034120128): FeatureStatus started ....
+06/18/2025 18:39:56 (714446-2034120128): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:39:56 (714446-2034120128): FeatureStatus started ....
+06/18/2025 18:39:56 (714446-2034120128): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:39:56 (714446-2034120128): FeatureStatus started ....
+06/18/2025 18:39:56 (714446-2034120128): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:42:03 (714430-2060897984): Check-in started ....
+06/18/2025 18:42:03 (714430-2060897984): Creating a new job ...
+06/18/2025 18:42:03 (714430-2060897984): Validating server path: 5280@10.19.32.90
+06/18/2025 18:42:03 (714430-2060897984): Server path validation status: 0
+06/18/2025 18:42:03 (714430-2060897984):   Configuration of license path is '5280@10.19.32.90'.
+06/18/2025 18:42:03 (714430-2060897984):   Configuration of recheck interval minimum is 290.
+06/18/2025 18:42:03 (714430-2060897984):   Configuration of 2000000000 maximum retry calls.
+06/18/2025 18:42:03 (714430-2060897984):   Configuration of sleep time value of 0.
+06/18/2025 18:42:03 (714430-2060897984):   Configuration of display specification is ':1'.
+06/18/2025 18:42:03 (714430-2060897984):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/18/2025 18:42:03 (714430-2060897984):   (System spec would have been cc@ncdc-0053(/dev/tty) )
+06/18/2025 18:42:03 (714430-2060897984): Job creation completed with status 0 (time 0).
+06/18/2025 18:42:03 (714430-2060897984): Check-in of Xcelium_Single_Core completed with status 0 (time 0).
+06/18/2025 18:42:03 (714430-2060897984): Exit started ....
+06/18/2025 18:42:03 (714430-2060897984): Exit completed with status 0 (time 0).
+06/18/2025 18:42:04 (714446-2034120128): Check-in started ....
+06/18/2025 18:42:04 (714446-2034120128): Creating a new job ...
+06/18/2025 18:42:04 (714446-2034120128): Validating server path: 5280@10.19.32.90
+06/18/2025 18:42:04 (714446-2034120128): Server path validation status: 0
+06/18/2025 18:42:04 (714446-2034120128):   Configuration of license path is '5280@10.19.32.90'.
+06/18/2025 18:42:04 (714446-2034120128):   Configuration of recheck interval minimum is 290.
+06/18/2025 18:42:04 (714446-2034120128):   Configuration of 2000000000 maximum retry calls.
+06/18/2025 18:42:04 (714446-2034120128):   Configuration of sleep time value of 0.
+06/18/2025 18:42:04 (714446-2034120128):   Configuration of display specification is ':1'.
+06/18/2025 18:42:04 (714446-2034120128):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/18/2025 18:42:04 (714446-2034120128):   (System spec would have been cc@ncdc-0053(/dev/tty) )
+06/18/2025 18:42:04 (714446-2034120128): Job creation completed with status 0 (time 0).
+06/18/2025 18:42:04 (714446-2034120128): Check-in of Affirma_sim_analysis_env completed with status 0 (time 0).
+06/18/2025 18:42:04 (714446-2034120128): FeatureStatus started ....
+06/18/2025 18:42:04 (714446-2034120128): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:42:04 (714446-2034120128): Exit started ....
+06/18/2025 18:42:04 (714446-2034120128): Exit completed with status 0 (time 0).
+06/18/2025 18:42:11 (316871-3442814656 xmsim): Initialization started (19.02-s004)...
+06/18/2025 18:42:11 (316871-3442814656): FLEXnet version 11.11.1.1 build 119913
+06/18/2025 18:42:11 (316871-3442814656): Process ID 23358
+06/18/2025 18:42:11 (316871-3442814656): Creating a new job ...
+06/18/2025 18:42:11 (316871-3442814656): Validating server path: 
+06/18/2025 18:42:11 (316871-3442814656): Server path validation status: 0
+06/18/2025 18:42:11 (316871-3442814656):   Configuration of license path is '5280@10.19.32.90'.
+06/18/2025 18:42:11 (316871-3442814656):   Configuration of recheck interval minimum is 290.
+06/18/2025 18:42:11 (316871-3442814656):   Configuration of 2000000000 maximum retry calls.
+06/18/2025 18:42:11 (316871-3442814656):   Configuration of sleep time value of 0.
+06/18/2025 18:42:11 (316871-3442814656):   Configuration of display specification is ':1'.
+06/18/2025 18:42:11 (316871-3442814656):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/18/2025 18:42:11 (316871-3442814656):   (System spec would have been cc@ncdc-0053(/dev/pts/1) )
+06/18/2025 18:42:11 (316871-3442814656): Job creation completed with status 0 (time 0).
+06/18/2025 18:42:11 (316871-3442814656): Creating a new job ...
+06/18/2025 18:42:11 (316871-3442814656):   Configuration of license path is '5280@10.19.32.90'.
+06/18/2025 18:42:11 (316871-3442814656):   Configuration of recheck interval minimum is 290.
+06/18/2025 18:42:11 (316871-3442814656):   Configuration of 2000000000 maximum retry calls.
+06/18/2025 18:42:11 (316871-3442814656):   Configuration of sleep time value of 0.
+06/18/2025 18:42:11 (316871-3442814656):   Configuration of display specification is ':1'.
+06/18/2025 18:42:11 (316871-3442814656):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/18/2025 18:42:11 (316871-3442814656):   (System spec would have been cc@ncdc-0053(/dev/pts/1) )
+06/18/2025 18:42:11 (316871-3442814656): Job creation completed with status 0 (time 0).
+06/18/2025 18:42:11 (316871-3442814656): Creating a new job ...
+06/18/2025 18:42:11 (316871-3442814656):   Configuration of license path is '5280@10.19.32.90'.
+06/18/2025 18:42:11 (316871-3442814656):   Configuration of recheck interval minimum is 290.
+06/18/2025 18:42:11 (316871-3442814656):   Configuration of 2000000000 maximum retry calls.
+06/18/2025 18:42:11 (316871-3442814656):   Configuration of sleep time value of 0.
+06/18/2025 18:42:11 (316871-3442814656):   Configuration of display specification is ':1'.
+06/18/2025 18:42:11 (316871-3442814656):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/18/2025 18:42:11 (316871-3442814656):   (System spec would have been cc@ncdc-0053(/dev/pts/1) )
+06/18/2025 18:42:11 (316871-3442814656): Job creation completed with status 0 (time 0).
+06/18/2025 18:42:11 (316871-3442814656): Creating a new job ...
+06/18/2025 18:42:11 (316871-3442814656):   Configuration of license path is '5280@10.19.32.90'.
+06/18/2025 18:42:11 (316871-3442814656):   Configuration of recheck interval minimum is 290.
+06/18/2025 18:42:11 (316871-3442814656):   Configuration of 2000000000 maximum retry calls.
+06/18/2025 18:42:11 (316871-3442814656):   Configuration of sleep time value of 0.
+06/18/2025 18:42:11 (316871-3442814656):   Configuration of display specification is ':1'.
+06/18/2025 18:42:11 (316871-3442814656):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/18/2025 18:42:11 (316871-3442814656):   (System spec would have been cc@ncdc-0053(/dev/pts/1) )
+06/18/2025 18:42:11 (316871-3442814656): Job creation completed with status 0 (time 0).
+06/18/2025 18:42:11 (316871-3442814656): Initialization completed with status 0 (time 0).
+06/18/2025 18:42:11 (316871-3442814656): Check-out (Increment) started ....
+06/18/2025 18:42:11 (316871-3442814656): Checking out 1 license(s) for Xcelium_Single_Core 23.000...
+06/18/2025 18:42:12 (316871-3442814656):   (Checked out from file '5280@10.19.32.90',
+             line '24.0 14-apr-2027 40 3F28D8A80C6ED56BB09C ')
+06/18/2025 18:42:12 (316871-3442814656): Check-out (Increment) completed with status 0 (time 1).
+06/18/2025 18:42:12 (867032-3335546304 simvision.exe): Initialization started (19.02-s004)...
+06/18/2025 18:42:12 (867032-3335546304): FLEXnet version 11.11.1.1 build 119913
+06/18/2025 18:42:12 (867032-3335546304): Process ID 23448
+06/18/2025 18:42:12 (867032-3335546304): Creating a new job ...
+06/18/2025 18:42:12 (867032-3335546304): Validating server path: 
+06/18/2025 18:42:12 (867032-3335546304): Server path validation status: 0
+06/18/2025 18:42:12 (867032-3335546304):   Configuration of license path is '5280@10.19.32.90'.
+06/18/2025 18:42:12 (867032-3335546304):   Configuration of recheck interval minimum is 290.
+06/18/2025 18:42:12 (867032-3335546304):   Configuration of 2000000000 maximum retry calls.
+06/18/2025 18:42:12 (867032-3335546304):   Configuration of sleep time value of 0.
+06/18/2025 18:42:12 (867032-3335546304):   Configuration of display specification is ':1'.
+06/18/2025 18:42:12 (867032-3335546304):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/18/2025 18:42:12 (867032-3335546304):   (System spec would have been cc@ncdc-0053(/dev/pts/1) )
+06/18/2025 18:42:12 (867032-3335546304): Job creation completed with status 0 (time 0).
+06/18/2025 18:42:12 (867032-3335546304): Creating a new job ...
+06/18/2025 18:42:12 (867032-3335546304):   Configuration of license path is '5280@10.19.32.90'.
+06/18/2025 18:42:12 (867032-3335546304):   Configuration of recheck interval minimum is 290.
+06/18/2025 18:42:12 (867032-3335546304):   Configuration of 2000000000 maximum retry calls.
+06/18/2025 18:42:12 (867032-3335546304):   Configuration of sleep time value of 0.
+06/18/2025 18:42:12 (867032-3335546304):   Configuration of display specification is ':1'.
+06/18/2025 18:42:12 (867032-3335546304):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/18/2025 18:42:12 (867032-3335546304):   (System spec would have been cc@ncdc-0053(/dev/pts/1) )
+06/18/2025 18:42:12 (867032-3335546304): Job creation completed with status 0 (time 0).
+06/18/2025 18:42:12 (867032-3335546304): Creating a new job ...
+06/18/2025 18:42:12 (867032-3335546304):   Configuration of license path is '5280@10.19.32.90'.
+06/18/2025 18:42:12 (867032-3335546304):   Configuration of recheck interval minimum is 290.
+06/18/2025 18:42:12 (867032-3335546304):   Configuration of 2000000000 maximum retry calls.
+06/18/2025 18:42:12 (867032-3335546304):   Configuration of sleep time value of 0.
+06/18/2025 18:42:12 (867032-3335546304):   Configuration of display specification is ':1'.
+06/18/2025 18:42:12 (867032-3335546304):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/18/2025 18:42:12 (867032-3335546304):   (System spec would have been cc@ncdc-0053(/dev/pts/1) )
+06/18/2025 18:42:12 (867032-3335546304): Job creation completed with status 0 (time 0).
+06/18/2025 18:42:12 (867032-3335546304): Creating a new job ...
+06/18/2025 18:42:12 (867032-3335546304):   Configuration of license path is '5280@10.19.32.90'.
+06/18/2025 18:42:12 (867032-3335546304):   Configuration of recheck interval minimum is 290.
+06/18/2025 18:42:12 (867032-3335546304):   Configuration of 2000000000 maximum retry calls.
+06/18/2025 18:42:12 (867032-3335546304):   Configuration of sleep time value of 0.
+06/18/2025 18:42:12 (867032-3335546304):   Configuration of display specification is ':1'.
+06/18/2025 18:42:12 (867032-3335546304):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/18/2025 18:42:12 (867032-3335546304):   (System spec would have been cc@ncdc-0053(/dev/pts/1) )
+06/18/2025 18:42:12 (867032-3335546304): Job creation completed with status 0 (time 0).
+06/18/2025 18:42:12 (867032-3335546304): Initialization completed with status 0 (time 0).
+06/18/2025 18:42:12 (867032-3335546304): Check-out started ....
+06/18/2025 18:42:12 (867032-3335546304): Checking out 1 license(s) for Affirma_sim_analysis_env 16.000...
+06/18/2025 18:42:12 (867032-3335546304):   (Checked out from file '5280@10.19.32.90',
+             line '23.1 14-apr-2027 80 6F7818C80659BC16B032 ')
+06/18/2025 18:42:12 (867032-3335546304): Check-out completed with status 0 (time 0).
+06/18/2025 18:42:12 (867032-3335546304): FeatureStatus started ....
+06/18/2025 18:42:12 (867032-3335546304): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:42:12 (867032-3335546304): FeatureStatus started ....
+06/18/2025 18:42:12 (867032-3335546304): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:42:12 (867032-3335546304): FeatureStatus started ....
+06/18/2025 18:42:12 (867032-3335546304): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:42:12 (867032-3335546304): FeatureStatus started ....
+06/18/2025 18:42:12 (867032-3335546304): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:42:12 (867032-3335546304): FeatureStatus started ....
+06/18/2025 18:42:12 (867032-3335546304): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:42:12 (867032-3335546304): FeatureStatus started ....
+06/18/2025 18:42:12 (867032-3335546304): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:42:13 (867032-3335546304): FeatureStatus started ....
+06/18/2025 18:42:13 (867032-3335546304): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:42:13 (867032-3335546304): FeatureStatus started ....
+06/18/2025 18:42:13 (867032-3335546304): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:42:13 (867032-3335546304): FeatureStatus started ....
+06/18/2025 18:42:13 (867032-3335546304): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:42:13 (867032-3335546304): FeatureStatus started ....
+06/18/2025 18:42:13 (867032-3335546304): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:42:13 (867032-3335546304): FeatureStatus started ....
+06/18/2025 18:42:13 (867032-3335546304): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:42:13 (867032-3335546304): FeatureStatus started ....
+06/18/2025 18:42:13 (867032-3335546304): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:42:13 (867032-3335546304): FeatureStatus started ....
+06/18/2025 18:42:13 (867032-3335546304): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:42:13 (867032-3335546304): FeatureStatus started ....
+06/18/2025 18:42:13 (867032-3335546304): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:42:13 (867032-3335546304): FeatureStatus started ....
+06/18/2025 18:42:13 (867032-3335546304): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:42:14 (316871-3442814656): Recheck started ....
+06/18/2025 18:42:14 (316871-3442814656):   Checking feature Xcelium_Single_Core
+06/18/2025 18:42:14 (316871-3442814656):   Time spent in server Recheck was 0.
+06/18/2025 18:42:14 (316871-3442814656): Re-check completed with status 0 (time 0).
+06/18/2025 18:42:14 (316871-3442814656): Recheck started ....
+06/18/2025 18:42:14 (316871-3442814656):   Actual recheck skipped due to recheck interval...
+06/18/2025 18:42:14 (316871-3442814656): Re-check completed with status 0 (time 0).
+06/18/2025 18:42:14 (867032-3335546304): FeatureStatus started ....
+06/18/2025 18:42:14 (867032-3335546304): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:42:14 (867032-3335546304): FeatureStatus started ....
+06/18/2025 18:42:14 (867032-3335546304): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:42:15 (867032-3335546304): FeatureStatus started ....
+06/18/2025 18:42:15 (867032-3335546304): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:42:15 (867032-3335546304): FeatureStatus started ....
+06/18/2025 18:42:15 (867032-3335546304): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:42:15 (867032-3335546304): FeatureStatus started ....
+06/18/2025 18:42:15 (867032-3335546304): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:42:15 (867032-3335546304): FeatureStatus started ....
+06/18/2025 18:42:15 (867032-3335546304): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:42:15 (867032-3335546304): FeatureStatus started ....
+06/18/2025 18:42:15 (867032-3335546304): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:42:15 (867032-3335546304): FeatureStatus started ....
+06/18/2025 18:42:15 (867032-3335546304): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:42:15 (867032-3335546304): FeatureStatus started ....
+06/18/2025 18:42:15 (867032-3335546304): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:42:16 (316871-3442814656): Recheck started ....
+06/18/2025 18:42:16 (316871-3442814656):   Actual recheck skipped due to recheck interval...
+06/18/2025 18:42:16 (316871-3442814656): Re-check completed with status 0 (time 0).
+06/18/2025 18:42:19 (867032-3335546304): FeatureStatus started ....
+06/18/2025 18:42:19 (867032-3335546304): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:42:19 (867032-3335546304): FeatureStatus started ....
+06/18/2025 18:42:19 (867032-3335546304): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:42:19 (867032-3335546304): FeatureStatus started ....
+06/18/2025 18:42:19 (867032-3335546304): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:42:19 (867032-3335546304): FeatureStatus started ....
+06/18/2025 18:42:19 (867032-3335546304): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:42:19 (867032-3335546304): FeatureStatus started ....
+06/18/2025 18:42:19 (867032-3335546304): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:42:19 (867032-3335546304): FeatureStatus started ....
+06/18/2025 18:42:19 (867032-3335546304): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:42:20 (867032-3335546304): FeatureStatus started ....
+06/18/2025 18:42:20 (867032-3335546304): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:42:23 (316871-3442814656): Recheck started ....
+06/18/2025 18:42:23 (316871-3442814656):   Actual recheck skipped due to recheck interval...
+06/18/2025 18:42:23 (316871-3442814656): Re-check completed with status 0 (time 0).
+06/18/2025 18:42:23 (316871-3442814656): Recheck started ....
+06/18/2025 18:42:23 (316871-3442814656):   Actual recheck skipped due to recheck interval...
+06/18/2025 18:42:23 (316871-3442814656): Re-check completed with status 0 (time 0).
+06/18/2025 18:42:23 (316871-3442814656): Recheck started ....
+06/18/2025 18:42:23 (316871-3442814656):   Actual recheck skipped due to recheck interval...
+06/18/2025 18:42:23 (316871-3442814656): Re-check completed with status 0 (time 0).
+06/18/2025 18:42:24 (316871-3442814656): Recheck started ....
+06/18/2025 18:42:24 (316871-3442814656):   Actual recheck skipped due to recheck interval...
+06/18/2025 18:42:24 (316871-3442814656): Re-check completed with status 0 (time 0).
+06/18/2025 18:45:15 (867032-3335546304): Recheck started ....
+06/18/2025 18:45:15 (867032-3335546304):   Checking feature Affirma_sim_analysis_env
+06/18/2025 18:45:15 (867032-3335546304):   Time spent in server Recheck was 0.
+06/18/2025 18:45:15 (867032-3335546304): Re-check completed with status 0 (time 0).
+06/18/2025 18:48:15 (867032-3335546304): Recheck started ....
+06/18/2025 18:48:15 (867032-3335546304):   Actual recheck skipped due to recheck interval...
+06/18/2025 18:48:15 (867032-3335546304): Re-check completed with status 0 (time 0).
+06/18/2025 18:49:43 (316871-3442814656): Check-in started ....
+06/18/2025 18:49:43 (316871-3442814656): Creating a new job ...
+06/18/2025 18:49:43 (316871-3442814656): Validating server path: 5280@10.19.32.90
+06/18/2025 18:49:43 (316871-3442814656): Server path validation status: 0
+06/18/2025 18:49:43 (316871-3442814656):   Configuration of license path is '5280@10.19.32.90'.
+06/18/2025 18:49:43 (316871-3442814656):   Configuration of recheck interval minimum is 290.
+06/18/2025 18:49:43 (316871-3442814656):   Configuration of 2000000000 maximum retry calls.
+06/18/2025 18:49:43 (316871-3442814656):   Configuration of sleep time value of 0.
+06/18/2025 18:49:43 (316871-3442814656):   Configuration of display specification is ':1'.
+06/18/2025 18:49:43 (316871-3442814656):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/18/2025 18:49:43 (316871-3442814656):   (System spec would have been cc@ncdc-0053(/dev/tty) )
+06/18/2025 18:49:43 (316871-3442814656): Job creation completed with status 0 (time 0).
+06/18/2025 18:49:43 (316871-3442814656): Check-in of Xcelium_Single_Core completed with status 0 (time 0).
+06/18/2025 18:49:43 (316871-3442814656): Exit started ....
+06/18/2025 18:49:43 (316871-3442814656): Exit completed with status 0 (time 0).
+06/18/2025 18:49:44 (867032-3335546304): Check-in started ....
+06/18/2025 18:49:44 (867032-3335546304): Creating a new job ...
+06/18/2025 18:49:44 (867032-3335546304): Validating server path: 5280@10.19.32.90
+06/18/2025 18:49:44 (867032-3335546304): Server path validation status: 0
+06/18/2025 18:49:44 (867032-3335546304):   Configuration of license path is '5280@10.19.32.90'.
+06/18/2025 18:49:44 (867032-3335546304):   Configuration of recheck interval minimum is 290.
+06/18/2025 18:49:44 (867032-3335546304):   Configuration of 2000000000 maximum retry calls.
+06/18/2025 18:49:44 (867032-3335546304):   Configuration of sleep time value of 0.
+06/18/2025 18:49:44 (867032-3335546304):   Configuration of display specification is ':1'.
+06/18/2025 18:49:44 (867032-3335546304):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/18/2025 18:49:44 (867032-3335546304):   (System spec would have been cc@ncdc-0053(/dev/tty) )
+06/18/2025 18:49:44 (867032-3335546304): Job creation completed with status 0 (time 0).
+06/18/2025 18:49:44 (867032-3335546304): Check-in of Affirma_sim_analysis_env completed with status 0 (time 0).
+06/18/2025 18:49:44 (867032-3335546304): FeatureStatus started ....
+06/18/2025 18:49:44 (867032-3335546304): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:49:44 (867032-3335546304): Exit started ....
+06/18/2025 18:49:44 (867032-3335546304): Exit completed with status 0 (time 0).
+06/18/2025 18:49:57 (152890-449531584 xmsim): Initialization started (19.02-s004)...
+06/18/2025 18:49:57 (152890-449531584): FLEXnet version 11.11.1.1 build 119913
+06/18/2025 18:49:57 (152890-449531584): Process ID 23996
+06/18/2025 18:49:57 (152890-449531584): Creating a new job ...
+06/18/2025 18:49:57 (152890-449531584): Validating server path: 
+06/18/2025 18:49:57 (152890-449531584): Server path validation status: 0
+06/18/2025 18:49:57 (152890-449531584):   Configuration of license path is '5280@10.19.32.90'.
+06/18/2025 18:49:57 (152890-449531584):   Configuration of recheck interval minimum is 290.
+06/18/2025 18:49:57 (152890-449531584):   Configuration of 2000000000 maximum retry calls.
+06/18/2025 18:49:57 (152890-449531584):   Configuration of sleep time value of 0.
+06/18/2025 18:49:57 (152890-449531584):   Configuration of display specification is ':1'.
+06/18/2025 18:49:57 (152890-449531584):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/18/2025 18:49:57 (152890-449531584):   (System spec would have been cc@ncdc-0053(/dev/pts/1) )
+06/18/2025 18:49:57 (152890-449531584): Job creation completed with status 0 (time 0).
+06/18/2025 18:49:57 (152890-449531584): Creating a new job ...
+06/18/2025 18:49:57 (152890-449531584):   Configuration of license path is '5280@10.19.32.90'.
+06/18/2025 18:49:57 (152890-449531584):   Configuration of recheck interval minimum is 290.
+06/18/2025 18:49:57 (152890-449531584):   Configuration of 2000000000 maximum retry calls.
+06/18/2025 18:49:57 (152890-449531584):   Configuration of sleep time value of 0.
+06/18/2025 18:49:57 (152890-449531584):   Configuration of display specification is ':1'.
+06/18/2025 18:49:57 (152890-449531584):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/18/2025 18:49:57 (152890-449531584):   (System spec would have been cc@ncdc-0053(/dev/pts/1) )
+06/18/2025 18:49:57 (152890-449531584): Job creation completed with status 0 (time 0).
+06/18/2025 18:49:57 (152890-449531584): Creating a new job ...
+06/18/2025 18:49:57 (152890-449531584):   Configuration of license path is '5280@10.19.32.90'.
+06/18/2025 18:49:57 (152890-449531584):   Configuration of recheck interval minimum is 290.
+06/18/2025 18:49:57 (152890-449531584):   Configuration of 2000000000 maximum retry calls.
+06/18/2025 18:49:57 (152890-449531584):   Configuration of sleep time value of 0.
+06/18/2025 18:49:57 (152890-449531584):   Configuration of display specification is ':1'.
+06/18/2025 18:49:57 (152890-449531584):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/18/2025 18:49:57 (152890-449531584):   (System spec would have been cc@ncdc-0053(/dev/pts/1) )
+06/18/2025 18:49:57 (152890-449531584): Job creation completed with status 0 (time 0).
+06/18/2025 18:49:57 (152890-449531584): Creating a new job ...
+06/18/2025 18:49:57 (152890-449531584):   Configuration of license path is '5280@10.19.32.90'.
+06/18/2025 18:49:57 (152890-449531584):   Configuration of recheck interval minimum is 290.
+06/18/2025 18:49:57 (152890-449531584):   Configuration of 2000000000 maximum retry calls.
+06/18/2025 18:49:57 (152890-449531584):   Configuration of sleep time value of 0.
+06/18/2025 18:49:57 (152890-449531584):   Configuration of display specification is ':1'.
+06/18/2025 18:49:57 (152890-449531584):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/18/2025 18:49:57 (152890-449531584):   (System spec would have been cc@ncdc-0053(/dev/pts/1) )
+06/18/2025 18:49:57 (152890-449531584): Job creation completed with status 0 (time 0).
+06/18/2025 18:49:57 (152890-449531584): Initialization completed with status 0 (time 0).
+06/18/2025 18:49:57 (152890-449531584): Check-out (Increment) started ....
+06/18/2025 18:49:57 (152890-449531584): Checking out 1 license(s) for Xcelium_Single_Core 23.000...
+06/18/2025 18:49:57 (152890-449531584):   (Checked out from file '5280@10.19.32.90',
+             line '24.0 14-apr-2027 40 3F28D8A80C6ED56BB09C ')
+06/18/2025 18:49:57 (152890-449531584): Check-out (Increment) completed with status 0 (time 0).
+06/18/2025 18:49:57 (152980-1553487296 simvision.exe): Initialization started (19.02-s004)...
+06/18/2025 18:49:57 (152980-1553487296): FLEXnet version 11.11.1.1 build 119913
+06/18/2025 18:49:57 (152980-1553487296): Process ID 24086
+06/18/2025 18:49:57 (152980-1553487296): Creating a new job ...
+06/18/2025 18:49:57 (152980-1553487296): Validating server path: 
+06/18/2025 18:49:57 (152980-1553487296): Server path validation status: 0
+06/18/2025 18:49:57 (152980-1553487296):   Configuration of license path is '5280@10.19.32.90'.
+06/18/2025 18:49:57 (152980-1553487296):   Configuration of recheck interval minimum is 290.
+06/18/2025 18:49:57 (152980-1553487296):   Configuration of 2000000000 maximum retry calls.
+06/18/2025 18:49:57 (152980-1553487296):   Configuration of sleep time value of 0.
+06/18/2025 18:49:57 (152980-1553487296):   Configuration of display specification is ':1'.
+06/18/2025 18:49:57 (152980-1553487296):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/18/2025 18:49:57 (152980-1553487296):   (System spec would have been cc@ncdc-0053(/dev/pts/1) )
+06/18/2025 18:49:57 (152980-1553487296): Job creation completed with status 0 (time 0).
+06/18/2025 18:49:57 (152980-1553487296): Creating a new job ...
+06/18/2025 18:49:57 (152980-1553487296):   Configuration of license path is '5280@10.19.32.90'.
+06/18/2025 18:49:57 (152980-1553487296):   Configuration of recheck interval minimum is 290.
+06/18/2025 18:49:57 (152980-1553487296):   Configuration of 2000000000 maximum retry calls.
+06/18/2025 18:49:57 (152980-1553487296):   Configuration of sleep time value of 0.
+06/18/2025 18:49:57 (152980-1553487296):   Configuration of display specification is ':1'.
+06/18/2025 18:49:57 (152980-1553487296):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/18/2025 18:49:57 (152980-1553487296):   (System spec would have been cc@ncdc-0053(/dev/pts/1) )
+06/18/2025 18:49:57 (152980-1553487296): Job creation completed with status 0 (time 0).
+06/18/2025 18:49:57 (152980-1553487296): Creating a new job ...
+06/18/2025 18:49:57 (152980-1553487296):   Configuration of license path is '5280@10.19.32.90'.
+06/18/2025 18:49:57 (152980-1553487296):   Configuration of recheck interval minimum is 290.
+06/18/2025 18:49:57 (152980-1553487296):   Configuration of 2000000000 maximum retry calls.
+06/18/2025 18:49:57 (152980-1553487296):   Configuration of sleep time value of 0.
+06/18/2025 18:49:57 (152980-1553487296):   Configuration of display specification is ':1'.
+06/18/2025 18:49:57 (152980-1553487296):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/18/2025 18:49:57 (152980-1553487296):   (System spec would have been cc@ncdc-0053(/dev/pts/1) )
+06/18/2025 18:49:57 (152980-1553487296): Job creation completed with status 0 (time 0).
+06/18/2025 18:49:57 (152980-1553487296): Creating a new job ...
+06/18/2025 18:49:57 (152980-1553487296):   Configuration of license path is '5280@10.19.32.90'.
+06/18/2025 18:49:57 (152980-1553487296):   Configuration of recheck interval minimum is 290.
+06/18/2025 18:49:57 (152980-1553487296):   Configuration of 2000000000 maximum retry calls.
+06/18/2025 18:49:57 (152980-1553487296):   Configuration of sleep time value of 0.
+06/18/2025 18:49:57 (152980-1553487296):   Configuration of display specification is ':1'.
+06/18/2025 18:49:57 (152980-1553487296):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/18/2025 18:49:57 (152980-1553487296):   (System spec would have been cc@ncdc-0053(/dev/pts/1) )
+06/18/2025 18:49:57 (152980-1553487296): Job creation completed with status 0 (time 0).
+06/18/2025 18:49:57 (152980-1553487296): Initialization completed with status 0 (time 0).
+06/18/2025 18:49:57 (152980-1553487296): Check-out started ....
+06/18/2025 18:49:57 (152980-1553487296): Checking out 1 license(s) for Affirma_sim_analysis_env 16.000...
+06/18/2025 18:49:57 (152980-1553487296):   (Checked out from file '5280@10.19.32.90',
+             line '23.1 14-apr-2027 80 6F7818C80659BC16B032 ')
+06/18/2025 18:49:57 (152980-1553487296): Check-out completed with status 0 (time 0).
+06/18/2025 18:49:58 (152980-1553487296): FeatureStatus started ....
+06/18/2025 18:49:58 (152980-1553487296): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:49:58 (152980-1553487296): FeatureStatus started ....
+06/18/2025 18:49:58 (152980-1553487296): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:49:58 (152980-1553487296): FeatureStatus started ....
+06/18/2025 18:49:58 (152980-1553487296): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:49:58 (152980-1553487296): FeatureStatus started ....
+06/18/2025 18:49:58 (152980-1553487296): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:49:58 (152980-1553487296): FeatureStatus started ....
+06/18/2025 18:49:58 (152980-1553487296): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:49:58 (152980-1553487296): FeatureStatus started ....
+06/18/2025 18:49:58 (152980-1553487296): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:49:58 (152980-1553487296): FeatureStatus started ....
+06/18/2025 18:49:58 (152980-1553487296): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:49:58 (152980-1553487296): FeatureStatus started ....
+06/18/2025 18:49:58 (152980-1553487296): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:49:58 (152980-1553487296): FeatureStatus started ....
+06/18/2025 18:49:58 (152980-1553487296): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:49:59 (152980-1553487296): FeatureStatus started ....
+06/18/2025 18:49:59 (152980-1553487296): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:49:59 (152980-1553487296): FeatureStatus started ....
+06/18/2025 18:49:59 (152980-1553487296): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:49:59 (152980-1553487296): FeatureStatus started ....
+06/18/2025 18:49:59 (152980-1553487296): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:49:59 (152980-1553487296): FeatureStatus started ....
+06/18/2025 18:49:59 (152980-1553487296): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:49:59 (152980-1553487296): FeatureStatus started ....
+06/18/2025 18:49:59 (152980-1553487296): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:49:59 (152980-1553487296): FeatureStatus started ....
+06/18/2025 18:49:59 (152980-1553487296): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:49:59 (152890-449531584): Recheck started ....
+06/18/2025 18:49:59 (152890-449531584):   Checking feature Xcelium_Single_Core
+06/18/2025 18:49:59 (152890-449531584):   Time spent in server Recheck was 0.
+06/18/2025 18:49:59 (152890-449531584): Re-check completed with status 0 (time 0).
+06/18/2025 18:49:59 (152890-449531584): Recheck started ....
+06/18/2025 18:49:59 (152890-449531584):   Actual recheck skipped due to recheck interval...
+06/18/2025 18:49:59 (152890-449531584): Re-check completed with status 0 (time 0).
+06/18/2025 18:49:59 (152980-1553487296): FeatureStatus started ....
+06/18/2025 18:49:59 (152980-1553487296): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:49:59 (152980-1553487296): FeatureStatus started ....
+06/18/2025 18:49:59 (152980-1553487296): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:50:00 (152980-1553487296): FeatureStatus started ....
+06/18/2025 18:50:00 (152980-1553487296): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:50:00 (152980-1553487296): FeatureStatus started ....
+06/18/2025 18:50:00 (152980-1553487296): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:50:00 (152980-1553487296): FeatureStatus started ....
+06/18/2025 18:50:00 (152980-1553487296): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:50:00 (152980-1553487296): FeatureStatus started ....
+06/18/2025 18:50:00 (152980-1553487296): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:50:00 (152980-1553487296): FeatureStatus started ....
+06/18/2025 18:50:00 (152980-1553487296): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:50:00 (152980-1553487296): FeatureStatus started ....
+06/18/2025 18:50:00 (152980-1553487296): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:50:01 (152980-1553487296): FeatureStatus started ....
+06/18/2025 18:50:01 (152980-1553487296): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:50:06 (152890-449531584): Recheck started ....
+06/18/2025 18:50:06 (152890-449531584):   Actual recheck skipped due to recheck interval...
+06/18/2025 18:50:06 (152890-449531584): Re-check completed with status 0 (time 0).
+06/18/2025 18:50:58 (152890-449531584): Check-in started ....
+06/18/2025 18:50:58 (152890-449531584): Creating a new job ...
+06/18/2025 18:50:58 (152890-449531584): Validating server path: 5280@10.19.32.90
+06/18/2025 18:50:58 (152890-449531584): Server path validation status: 0
+06/18/2025 18:50:58 (152890-449531584):   Configuration of license path is '5280@10.19.32.90'.
+06/18/2025 18:50:58 (152890-449531584):   Configuration of recheck interval minimum is 290.
+06/18/2025 18:50:58 (152890-449531584):   Configuration of 2000000000 maximum retry calls.
+06/18/2025 18:50:58 (152890-449531584):   Configuration of sleep time value of 0.
+06/18/2025 18:50:58 (152890-449531584):   Configuration of display specification is ':1'.
+06/18/2025 18:50:58 (152890-449531584):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/18/2025 18:50:58 (152890-449531584):   (System spec would have been cc@ncdc-0053(/dev/tty) )
+06/18/2025 18:50:58 (152890-449531584): Job creation completed with status 0 (time 0).
+06/18/2025 18:50:58 (152890-449531584): Check-in of Xcelium_Single_Core completed with status 0 (time 0).
+06/18/2025 18:50:58 (152890-449531584): Exit started ....
+06/18/2025 18:50:58 (152890-449531584): Exit completed with status 0 (time 0).
+06/18/2025 18:50:59 (152980-1553487296): Check-in started ....
+06/18/2025 18:50:59 (152980-1553487296): Creating a new job ...
+06/18/2025 18:50:59 (152980-1553487296): Validating server path: 5280@10.19.32.90
+06/18/2025 18:50:59 (152980-1553487296): Server path validation status: 0
+06/18/2025 18:50:59 (152980-1553487296):   Configuration of license path is '5280@10.19.32.90'.
+06/18/2025 18:50:59 (152980-1553487296):   Configuration of recheck interval minimum is 290.
+06/18/2025 18:50:59 (152980-1553487296):   Configuration of 2000000000 maximum retry calls.
+06/18/2025 18:50:59 (152980-1553487296):   Configuration of sleep time value of 0.
+06/18/2025 18:50:59 (152980-1553487296):   Configuration of display specification is ':1'.
+06/18/2025 18:50:59 (152980-1553487296):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/18/2025 18:50:59 (152980-1553487296):   (System spec would have been cc@ncdc-0053(/dev/tty) )
+06/18/2025 18:50:59 (152980-1553487296): Job creation completed with status 0 (time 0).
+06/18/2025 18:50:59 (152980-1553487296): Check-in of Affirma_sim_analysis_env completed with status 0 (time 0).
+06/18/2025 18:50:59 (152980-1553487296): FeatureStatus started ....
+06/18/2025 18:50:59 (152980-1553487296): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:50:59 (152980-1553487296): Exit started ....
+06/18/2025 18:50:59 (152980-1553487296): Exit completed with status 0 (time 0).
+06/18/2025 18:51:05 (427175-3218038464 xmsim): Initialization started (19.02-s004)...
+06/18/2025 18:51:05 (427175-3218038464): FLEXnet version 11.11.1.1 build 119913
+06/18/2025 18:51:05 (427175-3218038464): Process ID 24303
+06/18/2025 18:51:05 (427175-3218038464): Creating a new job ...
+06/18/2025 18:51:05 (427175-3218038464): Validating server path: 
+06/18/2025 18:51:05 (427175-3218038464): Server path validation status: 0
+06/18/2025 18:51:05 (427175-3218038464):   Configuration of license path is '5280@10.19.32.90'.
+06/18/2025 18:51:05 (427175-3218038464):   Configuration of recheck interval minimum is 290.
+06/18/2025 18:51:05 (427175-3218038464):   Configuration of 2000000000 maximum retry calls.
+06/18/2025 18:51:05 (427175-3218038464):   Configuration of sleep time value of 0.
+06/18/2025 18:51:05 (427175-3218038464):   Configuration of display specification is ':1'.
+06/18/2025 18:51:05 (427175-3218038464):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/18/2025 18:51:05 (427175-3218038464):   (System spec would have been cc@ncdc-0053(/dev/pts/1) )
+06/18/2025 18:51:05 (427175-3218038464): Job creation completed with status 0 (time 0).
+06/18/2025 18:51:05 (427175-3218038464): Creating a new job ...
+06/18/2025 18:51:05 (427175-3218038464):   Configuration of license path is '5280@10.19.32.90'.
+06/18/2025 18:51:05 (427175-3218038464):   Configuration of recheck interval minimum is 290.
+06/18/2025 18:51:05 (427175-3218038464):   Configuration of 2000000000 maximum retry calls.
+06/18/2025 18:51:05 (427175-3218038464):   Configuration of sleep time value of 0.
+06/18/2025 18:51:05 (427175-3218038464):   Configuration of display specification is ':1'.
+06/18/2025 18:51:05 (427175-3218038464):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/18/2025 18:51:05 (427175-3218038464):   (System spec would have been cc@ncdc-0053(/dev/pts/1) )
+06/18/2025 18:51:05 (427175-3218038464): Job creation completed with status 0 (time 0).
+06/18/2025 18:51:05 (427175-3218038464): Creating a new job ...
+06/18/2025 18:51:05 (427175-3218038464):   Configuration of license path is '5280@10.19.32.90'.
+06/18/2025 18:51:05 (427175-3218038464):   Configuration of recheck interval minimum is 290.
+06/18/2025 18:51:05 (427175-3218038464):   Configuration of 2000000000 maximum retry calls.
+06/18/2025 18:51:05 (427175-3218038464):   Configuration of sleep time value of 0.
+06/18/2025 18:51:05 (427175-3218038464):   Configuration of display specification is ':1'.
+06/18/2025 18:51:05 (427175-3218038464):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/18/2025 18:51:05 (427175-3218038464):   (System spec would have been cc@ncdc-0053(/dev/pts/1) )
+06/18/2025 18:51:05 (427175-3218038464): Job creation completed with status 0 (time 0).
+06/18/2025 18:51:05 (427175-3218038464): Creating a new job ...
+06/18/2025 18:51:05 (427175-3218038464):   Configuration of license path is '5280@10.19.32.90'.
+06/18/2025 18:51:05 (427175-3218038464):   Configuration of recheck interval minimum is 290.
+06/18/2025 18:51:05 (427175-3218038464):   Configuration of 2000000000 maximum retry calls.
+06/18/2025 18:51:05 (427175-3218038464):   Configuration of sleep time value of 0.
+06/18/2025 18:51:05 (427175-3218038464):   Configuration of display specification is ':1'.
+06/18/2025 18:51:05 (427175-3218038464):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/18/2025 18:51:05 (427175-3218038464):   (System spec would have been cc@ncdc-0053(/dev/pts/1) )
+06/18/2025 18:51:05 (427175-3218038464): Job creation completed with status 0 (time 0).
+06/18/2025 18:51:05 (427175-3218038464): Initialization completed with status 0 (time 0).
+06/18/2025 18:51:05 (427175-3218038464): Check-out (Increment) started ....
+06/18/2025 18:51:05 (427175-3218038464): Checking out 1 license(s) for Xcelium_Single_Core 23.000...
+06/18/2025 18:51:05 (427175-3218038464):   (Checked out from file '5280@10.19.32.90',
+             line '24.0 14-apr-2027 40 3F28D8A80C6ED56BB09C ')
+06/18/2025 18:51:05 (427175-3218038464): Check-out (Increment) completed with status 0 (time 0).
+06/18/2025 18:51:06 (977336-1177077184 simvision.exe): Initialization started (19.02-s004)...
+06/18/2025 18:51:06 (977336-1177077184): FLEXnet version 11.11.1.1 build 119913
+06/18/2025 18:51:06 (977336-1177077184): Process ID 24393
+06/18/2025 18:51:06 (977336-1177077184): Creating a new job ...
+06/18/2025 18:51:06 (977336-1177077184): Validating server path: 
+06/18/2025 18:51:06 (977336-1177077184): Server path validation status: 0
+06/18/2025 18:51:06 (977336-1177077184):   Configuration of license path is '5280@10.19.32.90'.
+06/18/2025 18:51:06 (977336-1177077184):   Configuration of recheck interval minimum is 290.
+06/18/2025 18:51:06 (977336-1177077184):   Configuration of 2000000000 maximum retry calls.
+06/18/2025 18:51:06 (977336-1177077184):   Configuration of sleep time value of 0.
+06/18/2025 18:51:06 (977336-1177077184):   Configuration of display specification is ':1'.
+06/18/2025 18:51:06 (977336-1177077184):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/18/2025 18:51:06 (977336-1177077184):   (System spec would have been cc@ncdc-0053(/dev/pts/1) )
+06/18/2025 18:51:06 (977336-1177077184): Job creation completed with status 0 (time 0).
+06/18/2025 18:51:06 (977336-1177077184): Creating a new job ...
+06/18/2025 18:51:06 (977336-1177077184):   Configuration of license path is '5280@10.19.32.90'.
+06/18/2025 18:51:06 (977336-1177077184):   Configuration of recheck interval minimum is 290.
+06/18/2025 18:51:06 (977336-1177077184):   Configuration of 2000000000 maximum retry calls.
+06/18/2025 18:51:06 (977336-1177077184):   Configuration of sleep time value of 0.
+06/18/2025 18:51:06 (977336-1177077184):   Configuration of display specification is ':1'.
+06/18/2025 18:51:06 (977336-1177077184):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/18/2025 18:51:06 (977336-1177077184):   (System spec would have been cc@ncdc-0053(/dev/pts/1) )
+06/18/2025 18:51:06 (977336-1177077184): Job creation completed with status 0 (time 0).
+06/18/2025 18:51:06 (977336-1177077184): Creating a new job ...
+06/18/2025 18:51:06 (977336-1177077184):   Configuration of license path is '5280@10.19.32.90'.
+06/18/2025 18:51:06 (977336-1177077184):   Configuration of recheck interval minimum is 290.
+06/18/2025 18:51:06 (977336-1177077184):   Configuration of 2000000000 maximum retry calls.
+06/18/2025 18:51:06 (977336-1177077184):   Configuration of sleep time value of 0.
+06/18/2025 18:51:06 (977336-1177077184):   Configuration of display specification is ':1'.
+06/18/2025 18:51:06 (977336-1177077184):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/18/2025 18:51:06 (977336-1177077184):   (System spec would have been cc@ncdc-0053(/dev/pts/1) )
+06/18/2025 18:51:06 (977336-1177077184): Job creation completed with status 0 (time 0).
+06/18/2025 18:51:06 (977336-1177077184): Creating a new job ...
+06/18/2025 18:51:06 (977336-1177077184):   Configuration of license path is '5280@10.19.32.90'.
+06/18/2025 18:51:06 (977336-1177077184):   Configuration of recheck interval minimum is 290.
+06/18/2025 18:51:06 (977336-1177077184):   Configuration of 2000000000 maximum retry calls.
+06/18/2025 18:51:06 (977336-1177077184):   Configuration of sleep time value of 0.
+06/18/2025 18:51:06 (977336-1177077184):   Configuration of display specification is ':1'.
+06/18/2025 18:51:06 (977336-1177077184):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/18/2025 18:51:06 (977336-1177077184):   (System spec would have been cc@ncdc-0053(/dev/pts/1) )
+06/18/2025 18:51:06 (977336-1177077184): Job creation completed with status 0 (time 0).
+06/18/2025 18:51:06 (977336-1177077184): Initialization completed with status 0 (time 0).
+06/18/2025 18:51:06 (977336-1177077184): Check-out started ....
+06/18/2025 18:51:06 (977336-1177077184): Checking out 1 license(s) for Affirma_sim_analysis_env 16.000...
+06/18/2025 18:51:06 (977336-1177077184):   (Checked out from file '5280@10.19.32.90',
+             line '23.1 14-apr-2027 80 6F7818C80659BC16B032 ')
+06/18/2025 18:51:06 (977336-1177077184): Check-out completed with status 0 (time 0).
+06/18/2025 18:51:06 (977336-1177077184): FeatureStatus started ....
+06/18/2025 18:51:06 (977336-1177077184): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:51:06 (977336-1177077184): FeatureStatus started ....
+06/18/2025 18:51:06 (977336-1177077184): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:51:06 (977336-1177077184): FeatureStatus started ....
+06/18/2025 18:51:06 (977336-1177077184): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:51:06 (977336-1177077184): FeatureStatus started ....
+06/18/2025 18:51:06 (977336-1177077184): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:51:06 (977336-1177077184): FeatureStatus started ....
+06/18/2025 18:51:06 (977336-1177077184): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:51:06 (977336-1177077184): FeatureStatus started ....
+06/18/2025 18:51:06 (977336-1177077184): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:51:07 (977336-1177077184): FeatureStatus started ....
+06/18/2025 18:51:07 (977336-1177077184): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:51:07 (977336-1177077184): FeatureStatus started ....
+06/18/2025 18:51:07 (977336-1177077184): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:51:07 (977336-1177077184): FeatureStatus started ....
+06/18/2025 18:51:07 (977336-1177077184): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:51:08 (977336-1177077184): FeatureStatus started ....
+06/18/2025 18:51:08 (977336-1177077184): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:51:08 (977336-1177077184): FeatureStatus started ....
+06/18/2025 18:51:08 (977336-1177077184): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:51:08 (977336-1177077184): FeatureStatus started ....
+06/18/2025 18:51:08 (977336-1177077184): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:51:08 (977336-1177077184): FeatureStatus started ....
+06/18/2025 18:51:08 (977336-1177077184): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:51:08 (977336-1177077184): FeatureStatus started ....
+06/18/2025 18:51:08 (977336-1177077184): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:51:08 (977336-1177077184): FeatureStatus started ....
+06/18/2025 18:51:08 (977336-1177077184): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:51:08 (427175-3218038464): Recheck started ....
+06/18/2025 18:51:08 (427175-3218038464):   Checking feature Xcelium_Single_Core
+06/18/2025 18:51:08 (427175-3218038464):   Time spent in server Recheck was 0.
+06/18/2025 18:51:08 (427175-3218038464): Re-check completed with status 0 (time 0).
+06/18/2025 18:51:08 (427175-3218038464): Recheck started ....
+06/18/2025 18:51:08 (427175-3218038464):   Actual recheck skipped due to recheck interval...
+06/18/2025 18:51:08 (427175-3218038464): Re-check completed with status 0 (time 0).
+06/18/2025 18:51:08 (977336-1177077184): FeatureStatus started ....
+06/18/2025 18:51:08 (977336-1177077184): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:51:08 (977336-1177077184): FeatureStatus started ....
+06/18/2025 18:51:08 (977336-1177077184): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:51:09 (977336-1177077184): FeatureStatus started ....
+06/18/2025 18:51:09 (977336-1177077184): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:51:09 (977336-1177077184): FeatureStatus started ....
+06/18/2025 18:51:09 (977336-1177077184): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:51:09 (977336-1177077184): FeatureStatus started ....
+06/18/2025 18:51:09 (977336-1177077184): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:51:09 (977336-1177077184): FeatureStatus started ....
+06/18/2025 18:51:09 (977336-1177077184): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:51:09 (977336-1177077184): FeatureStatus started ....
+06/18/2025 18:51:09 (977336-1177077184): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:51:09 (977336-1177077184): FeatureStatus started ....
+06/18/2025 18:51:09 (977336-1177077184): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:51:09 (977336-1177077184): FeatureStatus started ....
+06/18/2025 18:51:09 (977336-1177077184): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:51:12 (427175-3218038464): Recheck started ....
+06/18/2025 18:51:12 (427175-3218038464):   Actual recheck skipped due to recheck interval...
+06/18/2025 18:51:12 (427175-3218038464): Re-check completed with status 0 (time 0).
+06/18/2025 18:53:15 (427175-3218038464): Recheck started ....
+06/18/2025 18:53:15 (427175-3218038464):   Actual recheck skipped due to recheck interval...
+06/18/2025 18:53:15 (427175-3218038464): Re-check completed with status 0 (time 0).
+06/18/2025 18:53:15 (427175-3218038464): Check-in started ....
+06/18/2025 18:53:15 (427175-3218038464): Creating a new job ...
+06/18/2025 18:53:15 (427175-3218038464): Validating server path: 5280@10.19.32.90
+06/18/2025 18:53:15 (427175-3218038464): Server path validation status: 0
+06/18/2025 18:53:15 (427175-3218038464):   Configuration of license path is '5280@10.19.32.90'.
+06/18/2025 18:53:15 (427175-3218038464):   Configuration of recheck interval minimum is 290.
+06/18/2025 18:53:15 (427175-3218038464):   Configuration of 2000000000 maximum retry calls.
+06/18/2025 18:53:15 (427175-3218038464):   Configuration of sleep time value of 0.
+06/18/2025 18:53:15 (427175-3218038464):   Configuration of display specification is ':1'.
+06/18/2025 18:53:15 (427175-3218038464):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/18/2025 18:53:15 (427175-3218038464):   (System spec would have been cc@ncdc-0053(/dev/pts/1) )
+06/18/2025 18:53:15 (427175-3218038464): Job creation completed with status 0 (time 0).
+06/18/2025 18:53:15 (427175-3218038464): Check-in of Xcelium_Single_Core completed with status 0 (time 0).
+06/18/2025 18:53:15 (977336-1177077184): Check-in started ....
+06/18/2025 18:53:15 (977336-1177077184): Creating a new job ...
+06/18/2025 18:53:15 (977336-1177077184): Validating server path: 5280@10.19.32.90
+06/18/2025 18:53:15 (977336-1177077184): Server path validation status: 0
+06/18/2025 18:53:15 (977336-1177077184):   Configuration of license path is '5280@10.19.32.90'.
+06/18/2025 18:53:15 (977336-1177077184):   Configuration of recheck interval minimum is 290.
+06/18/2025 18:53:15 (977336-1177077184):   Configuration of 2000000000 maximum retry calls.
+06/18/2025 18:53:15 (977336-1177077184):   Configuration of sleep time value of 0.
+06/18/2025 18:53:15 (977336-1177077184):   Configuration of display specification is ':1'.
+06/18/2025 18:53:15 (977336-1177077184):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/18/2025 18:53:15 (977336-1177077184):   (System spec would have been cc@ncdc-0053(/dev/pts/1) )
+06/18/2025 18:53:15 (977336-1177077184): Job creation completed with status 0 (time 0).
+06/18/2025 18:53:15 (977336-1177077184): Check-in of Affirma_sim_analysis_env completed with status 0 (time 0).
+06/18/2025 18:53:15 (977336-1177077184): FeatureStatus started ....
+06/18/2025 18:53:15 (977336-1177077184): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/18/2025 18:53:15 (977336-1177077184): Exit started ....
+06/18/2025 18:53:15 (977336-1177077184): Exit completed with status 0 (time 0).
+06/18/2025 18:53:15 (427175-3218038464): Check-in started ....
+06/18/2025 18:53:15 (427175-3218038464): Check-in of Xcelium_Single_Core completed with status 0 (time 0).
+06/18/2025 18:53:15 (427175-3218038464): Exit started ....
+06/18/2025 18:53:15 (427175-3218038464): Exit completed with status 0 (time 0).
+06/19/2025 09:47:05 (621320-1715060416 xmsim): Initialization started (19.02-s004)...
+06/19/2025 09:47:05 (621320-1715060416): FLEXnet version 11.11.1.1 build 119913
+06/19/2025 09:47:05 (621320-1715060416): Process ID 9360
+06/19/2025 09:47:05 (621320-1715060416): Creating a new job ...
+06/19/2025 09:47:05 (621320-1715060416): Validating server path: 
+06/19/2025 09:47:05 (621320-1715060416): Server path validation status: 0
+06/19/2025 09:47:05 (621320-1715060416):   Configuration of license path is '5280@10.19.32.90'.
+06/19/2025 09:47:05 (621320-1715060416):   Configuration of recheck interval minimum is 290.
+06/19/2025 09:47:05 (621320-1715060416):   Configuration of 2000000000 maximum retry calls.
+06/19/2025 09:47:05 (621320-1715060416):   Configuration of sleep time value of 0.
+06/19/2025 09:47:05 (621320-1715060416):   Configuration of display specification is ':1'.
+06/19/2025 09:47:05 (621320-1715060416):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/19/2025 09:47:05 (621320-1715060416):   (System spec would have been cc@ncdc-0053(/dev/pts/3) )
+06/19/2025 09:47:05 (621320-1715060416): Job creation completed with status 0 (time 0).
+06/19/2025 09:47:05 (621320-1715060416): Creating a new job ...
+06/19/2025 09:47:05 (621320-1715060416):   Configuration of license path is '5280@10.19.32.90'.
+06/19/2025 09:47:05 (621320-1715060416):   Configuration of recheck interval minimum is 290.
+06/19/2025 09:47:05 (621320-1715060416):   Configuration of 2000000000 maximum retry calls.
+06/19/2025 09:47:05 (621320-1715060416):   Configuration of sleep time value of 0.
+06/19/2025 09:47:05 (621320-1715060416):   Configuration of display specification is ':1'.
+06/19/2025 09:47:05 (621320-1715060416):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/19/2025 09:47:05 (621320-1715060416):   (System spec would have been cc@ncdc-0053(/dev/pts/3) )
+06/19/2025 09:47:05 (621320-1715060416): Job creation completed with status 0 (time 0).
+06/19/2025 09:47:05 (621320-1715060416): Creating a new job ...
+06/19/2025 09:47:05 (621320-1715060416):   Configuration of license path is '5280@10.19.32.90'.
+06/19/2025 09:47:05 (621320-1715060416):   Configuration of recheck interval minimum is 290.
+06/19/2025 09:47:05 (621320-1715060416):   Configuration of 2000000000 maximum retry calls.
+06/19/2025 09:47:05 (621320-1715060416):   Configuration of sleep time value of 0.
+06/19/2025 09:47:05 (621320-1715060416):   Configuration of display specification is ':1'.
+06/19/2025 09:47:05 (621320-1715060416):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/19/2025 09:47:05 (621320-1715060416):   (System spec would have been cc@ncdc-0053(/dev/pts/3) )
+06/19/2025 09:47:05 (621320-1715060416): Job creation completed with status 0 (time 0).
+06/19/2025 09:47:05 (621320-1715060416): Creating a new job ...
+06/19/2025 09:47:05 (621320-1715060416):   Configuration of license path is '5280@10.19.32.90'.
+06/19/2025 09:47:05 (621320-1715060416):   Configuration of recheck interval minimum is 290.
+06/19/2025 09:47:05 (621320-1715060416):   Configuration of 2000000000 maximum retry calls.
+06/19/2025 09:47:05 (621320-1715060416):   Configuration of sleep time value of 0.
+06/19/2025 09:47:05 (621320-1715060416):   Configuration of display specification is ':1'.
+06/19/2025 09:47:05 (621320-1715060416):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/19/2025 09:47:05 (621320-1715060416):   (System spec would have been cc@ncdc-0053(/dev/pts/3) )
+06/19/2025 09:47:05 (621320-1715060416): Job creation completed with status 0 (time 0).
+06/19/2025 09:47:05 (621320-1715060416): Initialization completed with status 0 (time 0).
+06/19/2025 09:47:05 (621320-1715060416): Check-out (Increment) started ....
+06/19/2025 09:47:05 (621320-1715060416): Checking out 1 license(s) for Xcelium_Single_Core 23.000...
+06/19/2025 09:47:05 (621320-1715060416):   (Checked out from file '5280@10.19.32.90',
+             line '24.0 14-apr-2027 40 3F28D8A80C6ED56BB09C ')
+06/19/2025 09:47:05 (621320-1715060416): Check-out (Increment) completed with status 0 (time 0).
+06/19/2025 09:47:05 (621335-1686275520 simvision.exe): Initialization started (19.02-s004)...
+06/19/2025 09:47:05 (621335-1686275520): FLEXnet version 11.11.1.1 build 119913
+06/19/2025 09:47:05 (621335-1686275520): Process ID 9375
+06/19/2025 09:47:05 (621335-1686275520): Creating a new job ...
+06/19/2025 09:47:05 (621335-1686275520): Validating server path: 
+06/19/2025 09:47:05 (621335-1686275520): Server path validation status: 0
+06/19/2025 09:47:05 (621335-1686275520):   Configuration of license path is '5280@10.19.32.90'.
+06/19/2025 09:47:05 (621335-1686275520):   Configuration of recheck interval minimum is 290.
+06/19/2025 09:47:05 (621335-1686275520):   Configuration of 2000000000 maximum retry calls.
+06/19/2025 09:47:05 (621335-1686275520):   Configuration of sleep time value of 0.
+06/19/2025 09:47:05 (621335-1686275520):   Configuration of display specification is ':1'.
+06/19/2025 09:47:05 (621335-1686275520):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/19/2025 09:47:05 (621335-1686275520):   (System spec would have been cc@ncdc-0053(/dev/pts/3) )
+06/19/2025 09:47:05 (621335-1686275520): Job creation completed with status 0 (time 0).
+06/19/2025 09:47:05 (621335-1686275520): Creating a new job ...
+06/19/2025 09:47:05 (621335-1686275520):   Configuration of license path is '5280@10.19.32.90'.
+06/19/2025 09:47:05 (621335-1686275520):   Configuration of recheck interval minimum is 290.
+06/19/2025 09:47:05 (621335-1686275520):   Configuration of 2000000000 maximum retry calls.
+06/19/2025 09:47:05 (621335-1686275520):   Configuration of sleep time value of 0.
+06/19/2025 09:47:05 (621335-1686275520):   Configuration of display specification is ':1'.
+06/19/2025 09:47:05 (621335-1686275520):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/19/2025 09:47:05 (621335-1686275520):   (System spec would have been cc@ncdc-0053(/dev/pts/3) )
+06/19/2025 09:47:05 (621335-1686275520): Job creation completed with status 0 (time 0).
+06/19/2025 09:47:05 (621335-1686275520): Creating a new job ...
+06/19/2025 09:47:05 (621335-1686275520):   Configuration of license path is '5280@10.19.32.90'.
+06/19/2025 09:47:05 (621335-1686275520):   Configuration of recheck interval minimum is 290.
+06/19/2025 09:47:05 (621335-1686275520):   Configuration of 2000000000 maximum retry calls.
+06/19/2025 09:47:05 (621335-1686275520):   Configuration of sleep time value of 0.
+06/19/2025 09:47:05 (621335-1686275520):   Configuration of display specification is ':1'.
+06/19/2025 09:47:05 (621335-1686275520):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/19/2025 09:47:05 (621335-1686275520):   (System spec would have been cc@ncdc-0053(/dev/pts/3) )
+06/19/2025 09:47:05 (621335-1686275520): Job creation completed with status 0 (time 0).
+06/19/2025 09:47:05 (621335-1686275520): Creating a new job ...
+06/19/2025 09:47:05 (621335-1686275520):   Configuration of license path is '5280@10.19.32.90'.
+06/19/2025 09:47:05 (621335-1686275520):   Configuration of recheck interval minimum is 290.
+06/19/2025 09:47:05 (621335-1686275520):   Configuration of 2000000000 maximum retry calls.
+06/19/2025 09:47:05 (621335-1686275520):   Configuration of sleep time value of 0.
+06/19/2025 09:47:05 (621335-1686275520):   Configuration of display specification is ':1'.
+06/19/2025 09:47:05 (621335-1686275520):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/19/2025 09:47:05 (621335-1686275520):   (System spec would have been cc@ncdc-0053(/dev/pts/3) )
+06/19/2025 09:47:05 (621335-1686275520): Job creation completed with status 0 (time 0).
+06/19/2025 09:47:05 (621335-1686275520): Initialization completed with status 0 (time 0).
+06/19/2025 09:47:05 (621335-1686275520): Check-out started ....
+06/19/2025 09:47:05 (621335-1686275520): Checking out 1 license(s) for Affirma_sim_analysis_env 16.000...
+06/19/2025 09:47:05 (621335-1686275520):   (Checked out from file '5280@10.19.32.90',
+             line '23.1 14-apr-2027 80 6F7818C80659BC16B032 ')
+06/19/2025 09:47:05 (621335-1686275520): Check-out completed with status 0 (time 0).
+06/19/2025 09:47:06 (621335-1686275520): FeatureStatus started ....
+06/19/2025 09:47:06 (621335-1686275520): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:47:06 (621335-1686275520): FeatureStatus started ....
+06/19/2025 09:47:06 (621335-1686275520): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:47:06 (621335-1686275520): FeatureStatus started ....
+06/19/2025 09:47:06 (621335-1686275520): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:47:06 (621335-1686275520): FeatureStatus started ....
+06/19/2025 09:47:06 (621335-1686275520): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:47:06 (621335-1686275520): FeatureStatus started ....
+06/19/2025 09:47:06 (621335-1686275520): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:47:06 (621335-1686275520): FeatureStatus started ....
+06/19/2025 09:47:06 (621335-1686275520): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:47:06 (621335-1686275520): FeatureStatus started ....
+06/19/2025 09:47:06 (621335-1686275520): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:47:06 (621335-1686275520): FeatureStatus started ....
+06/19/2025 09:47:06 (621335-1686275520): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:47:06 (621335-1686275520): FeatureStatus started ....
+06/19/2025 09:47:06 (621335-1686275520): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:47:07 (621335-1686275520): FeatureStatus started ....
+06/19/2025 09:47:07 (621335-1686275520): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:47:07 (621335-1686275520): FeatureStatus started ....
+06/19/2025 09:47:07 (621335-1686275520): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:47:07 (621335-1686275520): FeatureStatus started ....
+06/19/2025 09:47:07 (621335-1686275520): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:47:07 (621335-1686275520): FeatureStatus started ....
+06/19/2025 09:47:07 (621335-1686275520): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:47:07 (621335-1686275520): FeatureStatus started ....
+06/19/2025 09:47:07 (621335-1686275520): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:47:07 (621335-1686275520): FeatureStatus started ....
+06/19/2025 09:47:07 (621335-1686275520): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:47:07 (621320-1715060416): Recheck started ....
+06/19/2025 09:47:07 (621320-1715060416):   Checking feature Xcelium_Single_Core
+06/19/2025 09:47:07 (621320-1715060416):   Time spent in server Recheck was 0.
+06/19/2025 09:47:07 (621320-1715060416): Re-check completed with status 0 (time 0).
+06/19/2025 09:47:07 (621320-1715060416): Recheck started ....
+06/19/2025 09:47:07 (621320-1715060416):   Actual recheck skipped due to recheck interval...
+06/19/2025 09:47:07 (621320-1715060416): Re-check completed with status 0 (time 0).
+06/19/2025 09:47:08 (621335-1686275520): FeatureStatus started ....
+06/19/2025 09:47:08 (621335-1686275520): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:47:08 (621335-1686275520): FeatureStatus started ....
+06/19/2025 09:47:08 (621335-1686275520): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:47:08 (621335-1686275520): FeatureStatus started ....
+06/19/2025 09:47:08 (621335-1686275520): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:47:08 (621335-1686275520): FeatureStatus started ....
+06/19/2025 09:47:08 (621335-1686275520): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:47:08 (621335-1686275520): FeatureStatus started ....
+06/19/2025 09:47:08 (621335-1686275520): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:47:08 (621335-1686275520): FeatureStatus started ....
+06/19/2025 09:47:08 (621335-1686275520): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:47:08 (621335-1686275520): FeatureStatus started ....
+06/19/2025 09:47:08 (621335-1686275520): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:47:08 (621335-1686275520): FeatureStatus started ....
+06/19/2025 09:47:08 (621335-1686275520): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:47:09 (621335-1686275520): FeatureStatus started ....
+06/19/2025 09:47:09 (621335-1686275520): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:47:12 (621320-1715060416): Recheck started ....
+06/19/2025 09:47:12 (621320-1715060416):   Actual recheck skipped due to recheck interval...
+06/19/2025 09:47:12 (621320-1715060416): Re-check completed with status 0 (time 0).
+06/19/2025 09:47:12 (621320-1715060416): Check-in started ....
+06/19/2025 09:47:12 (621320-1715060416): Creating a new job ...
+06/19/2025 09:47:12 (621320-1715060416): Validating server path: 5280@10.19.32.90
+06/19/2025 09:47:12 (621320-1715060416): Server path validation status: 0
+06/19/2025 09:47:12 (621320-1715060416):   Configuration of license path is '5280@10.19.32.90'.
+06/19/2025 09:47:12 (621320-1715060416):   Configuration of recheck interval minimum is 290.
+06/19/2025 09:47:12 (621320-1715060416):   Configuration of 2000000000 maximum retry calls.
+06/19/2025 09:47:12 (621320-1715060416):   Configuration of sleep time value of 0.
+06/19/2025 09:47:12 (621320-1715060416):   Configuration of display specification is ':1'.
+06/19/2025 09:47:12 (621320-1715060416):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/19/2025 09:47:12 (621320-1715060416):   (System spec would have been cc@ncdc-0053(/dev/pts/3) )
+06/19/2025 09:47:12 (621320-1715060416): Job creation completed with status 0 (time 0).
+06/19/2025 09:47:12 (621320-1715060416): Check-in of Xcelium_Single_Core completed with status 0 (time 0).
+06/19/2025 09:47:12 (621335-1686275520): Check-in started ....
+06/19/2025 09:47:12 (621335-1686275520): Creating a new job ...
+06/19/2025 09:47:12 (621335-1686275520): Validating server path: 5280@10.19.32.90
+06/19/2025 09:47:12 (621335-1686275520): Server path validation status: 0
+06/19/2025 09:47:12 (621335-1686275520):   Configuration of license path is '5280@10.19.32.90'.
+06/19/2025 09:47:12 (621335-1686275520):   Configuration of recheck interval minimum is 290.
+06/19/2025 09:47:12 (621335-1686275520):   Configuration of 2000000000 maximum retry calls.
+06/19/2025 09:47:12 (621335-1686275520):   Configuration of sleep time value of 0.
+06/19/2025 09:47:12 (621335-1686275520):   Configuration of display specification is ':1'.
+06/19/2025 09:47:12 (621335-1686275520):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/19/2025 09:47:12 (621335-1686275520):   (System spec would have been cc@ncdc-0053(/dev/pts/3) )
+06/19/2025 09:47:12 (621335-1686275520): Job creation completed with status 0 (time 0).
+06/19/2025 09:47:12 (621335-1686275520): Check-in of Affirma_sim_analysis_env completed with status 0 (time 0).
+06/19/2025 09:47:12 (621335-1686275520): FeatureStatus started ....
+06/19/2025 09:47:12 (621335-1686275520): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:47:12 (621335-1686275520): Exit started ....
+06/19/2025 09:47:12 (621335-1686275520): Exit completed with status 0 (time 0).
+06/19/2025 09:47:12 (621320-1715060416): Check-in started ....
+06/19/2025 09:47:12 (621320-1715060416): Check-in of Xcelium_Single_Core completed with status 0 (time 0).
+06/19/2025 09:47:12 (621320-1715060416): Exit started ....
+06/19/2025 09:47:12 (621320-1715060416): Exit completed with status 0 (time 0).
+06/19/2025 09:48:49 (117110-2610622144 xmsim): Initialization started (19.02-s004)...
+06/19/2025 09:48:49 (117110-2610622144): FLEXnet version 11.11.1.1 build 119913
+06/19/2025 09:48:49 (117110-2610622144): Process ID 10394
+06/19/2025 09:48:49 (117110-2610622144): Creating a new job ...
+06/19/2025 09:48:49 (117110-2610622144): Validating server path: 
+06/19/2025 09:48:49 (117110-2610622144): Server path validation status: 0
+06/19/2025 09:48:49 (117110-2610622144):   Configuration of license path is '5280@10.19.32.90'.
+06/19/2025 09:48:49 (117110-2610622144):   Configuration of recheck interval minimum is 290.
+06/19/2025 09:48:49 (117110-2610622144):   Configuration of 2000000000 maximum retry calls.
+06/19/2025 09:48:49 (117110-2610622144):   Configuration of sleep time value of 0.
+06/19/2025 09:48:49 (117110-2610622144):   Configuration of display specification is ':1'.
+06/19/2025 09:48:49 (117110-2610622144):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/19/2025 09:48:49 (117110-2610622144):   (System spec would have been cc@ncdc-0053(/dev/pts/3) )
+06/19/2025 09:48:49 (117110-2610622144): Job creation completed with status 0 (time 0).
+06/19/2025 09:48:49 (117110-2610622144): Creating a new job ...
+06/19/2025 09:48:49 (117110-2610622144):   Configuration of license path is '5280@10.19.32.90'.
+06/19/2025 09:48:49 (117110-2610622144):   Configuration of recheck interval minimum is 290.
+06/19/2025 09:48:49 (117110-2610622144):   Configuration of 2000000000 maximum retry calls.
+06/19/2025 09:48:49 (117110-2610622144):   Configuration of sleep time value of 0.
+06/19/2025 09:48:49 (117110-2610622144):   Configuration of display specification is ':1'.
+06/19/2025 09:48:49 (117110-2610622144):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/19/2025 09:48:49 (117110-2610622144):   (System spec would have been cc@ncdc-0053(/dev/pts/3) )
+06/19/2025 09:48:49 (117110-2610622144): Job creation completed with status 0 (time 0).
+06/19/2025 09:48:49 (117110-2610622144): Creating a new job ...
+06/19/2025 09:48:49 (117110-2610622144):   Configuration of license path is '5280@10.19.32.90'.
+06/19/2025 09:48:49 (117110-2610622144):   Configuration of recheck interval minimum is 290.
+06/19/2025 09:48:49 (117110-2610622144):   Configuration of 2000000000 maximum retry calls.
+06/19/2025 09:48:49 (117110-2610622144):   Configuration of sleep time value of 0.
+06/19/2025 09:48:49 (117110-2610622144):   Configuration of display specification is ':1'.
+06/19/2025 09:48:49 (117110-2610622144):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/19/2025 09:48:49 (117110-2610622144):   (System spec would have been cc@ncdc-0053(/dev/pts/3) )
+06/19/2025 09:48:49 (117110-2610622144): Job creation completed with status 0 (time 0).
+06/19/2025 09:48:49 (117110-2610622144): Creating a new job ...
+06/19/2025 09:48:49 (117110-2610622144):   Configuration of license path is '5280@10.19.32.90'.
+06/19/2025 09:48:49 (117110-2610622144):   Configuration of recheck interval minimum is 290.
+06/19/2025 09:48:49 (117110-2610622144):   Configuration of 2000000000 maximum retry calls.
+06/19/2025 09:48:49 (117110-2610622144):   Configuration of sleep time value of 0.
+06/19/2025 09:48:49 (117110-2610622144):   Configuration of display specification is ':1'.
+06/19/2025 09:48:49 (117110-2610622144):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/19/2025 09:48:49 (117110-2610622144):   (System spec would have been cc@ncdc-0053(/dev/pts/3) )
+06/19/2025 09:48:49 (117110-2610622144): Job creation completed with status 0 (time 0).
+06/19/2025 09:48:49 (117110-2610622144): Initialization completed with status 0 (time 0).
+06/19/2025 09:48:49 (117110-2610622144): Check-out (Increment) started ....
+06/19/2025 09:48:49 (117110-2610622144): Checking out 1 license(s) for Xcelium_Single_Core 23.000...
+06/19/2025 09:48:49 (117110-2610622144):   (Checked out from file '5280@10.19.32.90',
+             line '24.0 14-apr-2027 40 3F28D8A80C6ED56BB09C ')
+06/19/2025 09:48:49 (117110-2610622144): Check-out (Increment) completed with status 0 (time 0).
+06/19/2025 09:48:49 (117224-2599056832 simvision.exe): Initialization started (19.02-s004)...
+06/19/2025 09:48:49 (117224-2599056832): FLEXnet version 11.11.1.1 build 119913
+06/19/2025 09:48:49 (117224-2599056832): Process ID 10508
+06/19/2025 09:48:49 (117224-2599056832): Creating a new job ...
+06/19/2025 09:48:49 (117224-2599056832): Validating server path: 
+06/19/2025 09:48:49 (117224-2599056832): Server path validation status: 0
+06/19/2025 09:48:49 (117224-2599056832):   Configuration of license path is '5280@10.19.32.90'.
+06/19/2025 09:48:49 (117224-2599056832):   Configuration of recheck interval minimum is 290.
+06/19/2025 09:48:49 (117224-2599056832):   Configuration of 2000000000 maximum retry calls.
+06/19/2025 09:48:49 (117224-2599056832):   Configuration of sleep time value of 0.
+06/19/2025 09:48:49 (117224-2599056832):   Configuration of display specification is ':1'.
+06/19/2025 09:48:49 (117224-2599056832):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/19/2025 09:48:49 (117224-2599056832):   (System spec would have been cc@ncdc-0053(/dev/pts/3) )
+06/19/2025 09:48:49 (117224-2599056832): Job creation completed with status 0 (time 0).
+06/19/2025 09:48:49 (117224-2599056832): Creating a new job ...
+06/19/2025 09:48:49 (117224-2599056832):   Configuration of license path is '5280@10.19.32.90'.
+06/19/2025 09:48:49 (117224-2599056832):   Configuration of recheck interval minimum is 290.
+06/19/2025 09:48:49 (117224-2599056832):   Configuration of 2000000000 maximum retry calls.
+06/19/2025 09:48:49 (117224-2599056832):   Configuration of sleep time value of 0.
+06/19/2025 09:48:49 (117224-2599056832):   Configuration of display specification is ':1'.
+06/19/2025 09:48:49 (117224-2599056832):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/19/2025 09:48:49 (117224-2599056832):   (System spec would have been cc@ncdc-0053(/dev/pts/3) )
+06/19/2025 09:48:49 (117224-2599056832): Job creation completed with status 0 (time 0).
+06/19/2025 09:48:49 (117224-2599056832): Creating a new job ...
+06/19/2025 09:48:49 (117224-2599056832):   Configuration of license path is '5280@10.19.32.90'.
+06/19/2025 09:48:49 (117224-2599056832):   Configuration of recheck interval minimum is 290.
+06/19/2025 09:48:49 (117224-2599056832):   Configuration of 2000000000 maximum retry calls.
+06/19/2025 09:48:49 (117224-2599056832):   Configuration of sleep time value of 0.
+06/19/2025 09:48:49 (117224-2599056832):   Configuration of display specification is ':1'.
+06/19/2025 09:48:49 (117224-2599056832):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/19/2025 09:48:49 (117224-2599056832):   (System spec would have been cc@ncdc-0053(/dev/pts/3) )
+06/19/2025 09:48:49 (117224-2599056832): Job creation completed with status 0 (time 0).
+06/19/2025 09:48:49 (117224-2599056832): Creating a new job ...
+06/19/2025 09:48:49 (117224-2599056832):   Configuration of license path is '5280@10.19.32.90'.
+06/19/2025 09:48:49 (117224-2599056832):   Configuration of recheck interval minimum is 290.
+06/19/2025 09:48:49 (117224-2599056832):   Configuration of 2000000000 maximum retry calls.
+06/19/2025 09:48:49 (117224-2599056832):   Configuration of sleep time value of 0.
+06/19/2025 09:48:49 (117224-2599056832):   Configuration of display specification is ':1'.
+06/19/2025 09:48:49 (117224-2599056832):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/19/2025 09:48:49 (117224-2599056832):   (System spec would have been cc@ncdc-0053(/dev/pts/3) )
+06/19/2025 09:48:49 (117224-2599056832): Job creation completed with status 0 (time 0).
+06/19/2025 09:48:49 (117224-2599056832): Initialization completed with status 0 (time 0).
+06/19/2025 09:48:49 (117224-2599056832): Check-out started ....
+06/19/2025 09:48:49 (117224-2599056832): Checking out 1 license(s) for Affirma_sim_analysis_env 16.000...
+06/19/2025 09:48:49 (117224-2599056832):   (Checked out from file '5280@10.19.32.90',
+             line '23.1 14-apr-2027 80 6F7818C80659BC16B032 ')
+06/19/2025 09:48:49 (117224-2599056832): Check-out completed with status 0 (time 0).
+06/19/2025 09:48:50 (117224-2599056832): FeatureStatus started ....
+06/19/2025 09:48:50 (117224-2599056832): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:48:50 (117224-2599056832): FeatureStatus started ....
+06/19/2025 09:48:50 (117224-2599056832): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:48:50 (117224-2599056832): FeatureStatus started ....
+06/19/2025 09:48:50 (117224-2599056832): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:48:50 (117224-2599056832): FeatureStatus started ....
+06/19/2025 09:48:50 (117224-2599056832): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:48:50 (117224-2599056832): FeatureStatus started ....
+06/19/2025 09:48:50 (117224-2599056832): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:48:50 (117224-2599056832): FeatureStatus started ....
+06/19/2025 09:48:50 (117224-2599056832): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:48:50 (117224-2599056832): FeatureStatus started ....
+06/19/2025 09:48:50 (117224-2599056832): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:48:50 (117224-2599056832): FeatureStatus started ....
+06/19/2025 09:48:50 (117224-2599056832): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:48:51 (117224-2599056832): FeatureStatus started ....
+06/19/2025 09:48:51 (117224-2599056832): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:48:51 (117224-2599056832): FeatureStatus started ....
+06/19/2025 09:48:51 (117224-2599056832): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:48:51 (117224-2599056832): FeatureStatus started ....
+06/19/2025 09:48:51 (117224-2599056832): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:48:51 (117224-2599056832): FeatureStatus started ....
+06/19/2025 09:48:51 (117224-2599056832): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:48:51 (117224-2599056832): FeatureStatus started ....
+06/19/2025 09:48:51 (117224-2599056832): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:48:51 (117224-2599056832): FeatureStatus started ....
+06/19/2025 09:48:51 (117224-2599056832): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:48:51 (117224-2599056832): FeatureStatus started ....
+06/19/2025 09:48:51 (117224-2599056832): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:48:51 (117110-2610622144): Recheck started ....
+06/19/2025 09:48:51 (117110-2610622144):   Checking feature Xcelium_Single_Core
+06/19/2025 09:48:51 (117110-2610622144):   Time spent in server Recheck was 0.
+06/19/2025 09:48:51 (117110-2610622144): Re-check completed with status 0 (time 0).
+06/19/2025 09:48:51 (117110-2610622144): Recheck started ....
+06/19/2025 09:48:51 (117110-2610622144):   Actual recheck skipped due to recheck interval...
+06/19/2025 09:48:51 (117110-2610622144): Re-check completed with status 0 (time 0).
+06/19/2025 09:48:51 (117224-2599056832): FeatureStatus started ....
+06/19/2025 09:48:51 (117224-2599056832): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:48:51 (117224-2599056832): FeatureStatus started ....
+06/19/2025 09:48:51 (117224-2599056832): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:48:52 (117224-2599056832): FeatureStatus started ....
+06/19/2025 09:48:52 (117224-2599056832): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:48:52 (117224-2599056832): FeatureStatus started ....
+06/19/2025 09:48:52 (117224-2599056832): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:48:52 (117224-2599056832): FeatureStatus started ....
+06/19/2025 09:48:52 (117224-2599056832): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:48:52 (117224-2599056832): FeatureStatus started ....
+06/19/2025 09:48:52 (117224-2599056832): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:48:52 (117224-2599056832): FeatureStatus started ....
+06/19/2025 09:48:52 (117224-2599056832): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:48:52 (117224-2599056832): FeatureStatus started ....
+06/19/2025 09:48:52 (117224-2599056832): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:48:53 (117224-2599056832): FeatureStatus started ....
+06/19/2025 09:48:53 (117224-2599056832): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:48:56 (117110-2610622144): Recheck started ....
+06/19/2025 09:48:56 (117110-2610622144):   Actual recheck skipped due to recheck interval...
+06/19/2025 09:48:56 (117110-2610622144): Re-check completed with status 0 (time 0).
+06/19/2025 09:50:19 (117110-2610622144): Recheck started ....
+06/19/2025 09:50:19 (117110-2610622144):   Actual recheck skipped due to recheck interval...
+06/19/2025 09:50:19 (117110-2610622144): Re-check completed with status 0 (time 0).
+06/19/2025 09:50:19 (117110-2610622144): Check-in started ....
+06/19/2025 09:50:19 (117110-2610622144): Creating a new job ...
+06/19/2025 09:50:19 (117110-2610622144): Validating server path: 5280@10.19.32.90
+06/19/2025 09:50:19 (117110-2610622144): Server path validation status: 0
+06/19/2025 09:50:19 (117110-2610622144):   Configuration of license path is '5280@10.19.32.90'.
+06/19/2025 09:50:19 (117110-2610622144):   Configuration of recheck interval minimum is 290.
+06/19/2025 09:50:19 (117110-2610622144):   Configuration of 2000000000 maximum retry calls.
+06/19/2025 09:50:19 (117110-2610622144):   Configuration of sleep time value of 0.
+06/19/2025 09:50:19 (117110-2610622144):   Configuration of display specification is ':1'.
+06/19/2025 09:50:19 (117110-2610622144):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/19/2025 09:50:19 (117110-2610622144):   (System spec would have been cc@ncdc-0053(/dev/pts/3) )
+06/19/2025 09:50:19 (117110-2610622144): Job creation completed with status 0 (time 0).
+06/19/2025 09:50:19 (117110-2610622144): Check-in of Xcelium_Single_Core completed with status 0 (time 0).
+06/19/2025 09:50:19 (117224-2599056832): Check-in started ....
+06/19/2025 09:50:19 (117224-2599056832): Creating a new job ...
+06/19/2025 09:50:19 (117224-2599056832): Validating server path: 5280@10.19.32.90
+06/19/2025 09:50:19 (117224-2599056832): Server path validation status: 0
+06/19/2025 09:50:19 (117224-2599056832):   Configuration of license path is '5280@10.19.32.90'.
+06/19/2025 09:50:19 (117224-2599056832):   Configuration of recheck interval minimum is 290.
+06/19/2025 09:50:19 (117224-2599056832):   Configuration of 2000000000 maximum retry calls.
+06/19/2025 09:50:19 (117224-2599056832):   Configuration of sleep time value of 0.
+06/19/2025 09:50:19 (117224-2599056832):   Configuration of display specification is ':1'.
+06/19/2025 09:50:19 (117224-2599056832):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/19/2025 09:50:19 (117224-2599056832):   (System spec would have been cc@ncdc-0053(/dev/pts/3) )
+06/19/2025 09:50:19 (117224-2599056832): Job creation completed with status 0 (time 0).
+06/19/2025 09:50:19 (117224-2599056832): Check-in of Affirma_sim_analysis_env completed with status 0 (time 0).
+06/19/2025 09:50:19 (117224-2599056832): FeatureStatus started ....
+06/19/2025 09:50:19 (117224-2599056832): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:50:19 (117224-2599056832): Exit started ....
+06/19/2025 09:50:19 (117224-2599056832): Exit completed with status 0 (time 0).
+06/19/2025 09:50:19 (117110-2610622144): Check-in started ....
+06/19/2025 09:50:19 (117110-2610622144): Check-in of Xcelium_Single_Core completed with status 0 (time 0).
+06/19/2025 09:50:19 (117110-2610622144): Exit started ....
+06/19/2025 09:50:19 (117110-2610622144): Exit completed with status 0 (time 0).
+06/19/2025 09:51:49 (738684-3459641024 xmsim): Initialization started (19.02-s004)...
+06/19/2025 09:51:49 (738684-3459641024): FLEXnet version 11.11.1.1 build 119913
+06/19/2025 09:51:49 (738684-3459641024): Process ID 11726
+06/19/2025 09:51:49 (738684-3459641024): Creating a new job ...
+06/19/2025 09:51:49 (738684-3459641024): Validating server path: 
+06/19/2025 09:51:49 (738684-3459641024): Server path validation status: 0
+06/19/2025 09:51:49 (738684-3459641024):   Configuration of license path is '5280@10.19.32.90'.
+06/19/2025 09:51:49 (738684-3459641024):   Configuration of recheck interval minimum is 290.
+06/19/2025 09:51:49 (738684-3459641024):   Configuration of 2000000000 maximum retry calls.
+06/19/2025 09:51:49 (738684-3459641024):   Configuration of sleep time value of 0.
+06/19/2025 09:51:49 (738684-3459641024):   Configuration of display specification is ':1'.
+06/19/2025 09:51:49 (738684-3459641024):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/19/2025 09:51:49 (738684-3459641024):   (System spec would have been cc@ncdc-0053(/dev/pts/3) )
+06/19/2025 09:51:49 (738684-3459641024): Job creation completed with status 0 (time 0).
+06/19/2025 09:51:49 (738684-3459641024): Creating a new job ...
+06/19/2025 09:51:49 (738684-3459641024):   Configuration of license path is '5280@10.19.32.90'.
+06/19/2025 09:51:49 (738684-3459641024):   Configuration of recheck interval minimum is 290.
+06/19/2025 09:51:49 (738684-3459641024):   Configuration of 2000000000 maximum retry calls.
+06/19/2025 09:51:49 (738684-3459641024):   Configuration of sleep time value of 0.
+06/19/2025 09:51:49 (738684-3459641024):   Configuration of display specification is ':1'.
+06/19/2025 09:51:49 (738684-3459641024):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/19/2025 09:51:49 (738684-3459641024):   (System spec would have been cc@ncdc-0053(/dev/pts/3) )
+06/19/2025 09:51:49 (738684-3459641024): Job creation completed with status 0 (time 0).
+06/19/2025 09:51:49 (738684-3459641024): Creating a new job ...
+06/19/2025 09:51:49 (738684-3459641024):   Configuration of license path is '5280@10.19.32.90'.
+06/19/2025 09:51:49 (738684-3459641024):   Configuration of recheck interval minimum is 290.
+06/19/2025 09:51:49 (738684-3459641024):   Configuration of 2000000000 maximum retry calls.
+06/19/2025 09:51:49 (738684-3459641024):   Configuration of sleep time value of 0.
+06/19/2025 09:51:49 (738684-3459641024):   Configuration of display specification is ':1'.
+06/19/2025 09:51:49 (738684-3459641024):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/19/2025 09:51:49 (738684-3459641024):   (System spec would have been cc@ncdc-0053(/dev/pts/3) )
+06/19/2025 09:51:49 (738684-3459641024): Job creation completed with status 0 (time 0).
+06/19/2025 09:51:49 (738684-3459641024): Creating a new job ...
+06/19/2025 09:51:49 (738684-3459641024):   Configuration of license path is '5280@10.19.32.90'.
+06/19/2025 09:51:49 (738684-3459641024):   Configuration of recheck interval minimum is 290.
+06/19/2025 09:51:49 (738684-3459641024):   Configuration of 2000000000 maximum retry calls.
+06/19/2025 09:51:49 (738684-3459641024):   Configuration of sleep time value of 0.
+06/19/2025 09:51:49 (738684-3459641024):   Configuration of display specification is ':1'.
+06/19/2025 09:51:49 (738684-3459641024):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/19/2025 09:51:49 (738684-3459641024):   (System spec would have been cc@ncdc-0053(/dev/pts/3) )
+06/19/2025 09:51:49 (738684-3459641024): Job creation completed with status 0 (time 0).
+06/19/2025 09:51:49 (738684-3459641024): Initialization completed with status 0 (time 0).
+06/19/2025 09:51:49 (738684-3459641024): Check-out (Increment) started ....
+06/19/2025 09:51:49 (738684-3459641024): Checking out 1 license(s) for Xcelium_Single_Core 23.000...
+06/19/2025 09:51:49 (738684-3459641024):   (Checked out from file '5280@10.19.32.90',
+             line '24.0 14-apr-2027 40 3F28D8A80C6ED56BB09C ')
+06/19/2025 09:51:49 (738684-3459641024): Check-out (Increment) completed with status 0 (time 0).
+06/19/2025 09:51:49 (738785-3010180544 simvision.exe): Initialization started (19.02-s004)...
+06/19/2025 09:51:49 (738785-3010180544): FLEXnet version 11.11.1.1 build 119913
+06/19/2025 09:51:49 (738785-3010180544): Process ID 11827
+06/19/2025 09:51:49 (738785-3010180544): Creating a new job ...
+06/19/2025 09:51:49 (738785-3010180544): Validating server path: 
+06/19/2025 09:51:49 (738785-3010180544): Server path validation status: 0
+06/19/2025 09:51:49 (738785-3010180544):   Configuration of license path is '5280@10.19.32.90'.
+06/19/2025 09:51:49 (738785-3010180544):   Configuration of recheck interval minimum is 290.
+06/19/2025 09:51:49 (738785-3010180544):   Configuration of 2000000000 maximum retry calls.
+06/19/2025 09:51:49 (738785-3010180544):   Configuration of sleep time value of 0.
+06/19/2025 09:51:49 (738785-3010180544):   Configuration of display specification is ':1'.
+06/19/2025 09:51:49 (738785-3010180544):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/19/2025 09:51:49 (738785-3010180544):   (System spec would have been cc@ncdc-0053(/dev/pts/3) )
+06/19/2025 09:51:49 (738785-3010180544): Job creation completed with status 0 (time 0).
+06/19/2025 09:51:49 (738785-3010180544): Creating a new job ...
+06/19/2025 09:51:49 (738785-3010180544):   Configuration of license path is '5280@10.19.32.90'.
+06/19/2025 09:51:49 (738785-3010180544):   Configuration of recheck interval minimum is 290.
+06/19/2025 09:51:49 (738785-3010180544):   Configuration of 2000000000 maximum retry calls.
+06/19/2025 09:51:49 (738785-3010180544):   Configuration of sleep time value of 0.
+06/19/2025 09:51:49 (738785-3010180544):   Configuration of display specification is ':1'.
+06/19/2025 09:51:49 (738785-3010180544):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/19/2025 09:51:49 (738785-3010180544):   (System spec would have been cc@ncdc-0053(/dev/pts/3) )
+06/19/2025 09:51:49 (738785-3010180544): Job creation completed with status 0 (time 0).
+06/19/2025 09:51:49 (738785-3010180544): Creating a new job ...
+06/19/2025 09:51:49 (738785-3010180544):   Configuration of license path is '5280@10.19.32.90'.
+06/19/2025 09:51:49 (738785-3010180544):   Configuration of recheck interval minimum is 290.
+06/19/2025 09:51:49 (738785-3010180544):   Configuration of 2000000000 maximum retry calls.
+06/19/2025 09:51:49 (738785-3010180544):   Configuration of sleep time value of 0.
+06/19/2025 09:51:49 (738785-3010180544):   Configuration of display specification is ':1'.
+06/19/2025 09:51:49 (738785-3010180544):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/19/2025 09:51:49 (738785-3010180544):   (System spec would have been cc@ncdc-0053(/dev/pts/3) )
+06/19/2025 09:51:49 (738785-3010180544): Job creation completed with status 0 (time 0).
+06/19/2025 09:51:49 (738785-3010180544): Creating a new job ...
+06/19/2025 09:51:49 (738785-3010180544):   Configuration of license path is '5280@10.19.32.90'.
+06/19/2025 09:51:49 (738785-3010180544):   Configuration of recheck interval minimum is 290.
+06/19/2025 09:51:49 (738785-3010180544):   Configuration of 2000000000 maximum retry calls.
+06/19/2025 09:51:49 (738785-3010180544):   Configuration of sleep time value of 0.
+06/19/2025 09:51:49 (738785-3010180544):   Configuration of display specification is ':1'.
+06/19/2025 09:51:49 (738785-3010180544):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/19/2025 09:51:49 (738785-3010180544):   (System spec would have been cc@ncdc-0053(/dev/pts/3) )
+06/19/2025 09:51:49 (738785-3010180544): Job creation completed with status 0 (time 0).
+06/19/2025 09:51:49 (738785-3010180544): Initialization completed with status 0 (time 0).
+06/19/2025 09:51:49 (738785-3010180544): Check-out started ....
+06/19/2025 09:51:49 (738785-3010180544): Checking out 1 license(s) for Affirma_sim_analysis_env 16.000...
+06/19/2025 09:51:49 (738785-3010180544):   (Checked out from file '5280@10.19.32.90',
+             line '23.1 14-apr-2027 80 6F7818C80659BC16B032 ')
+06/19/2025 09:51:49 (738785-3010180544): Check-out completed with status 0 (time 0).
+06/19/2025 09:51:50 (738785-3010180544): FeatureStatus started ....
+06/19/2025 09:51:50 (738785-3010180544): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:51:50 (738785-3010180544): FeatureStatus started ....
+06/19/2025 09:51:50 (738785-3010180544): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:51:50 (738785-3010180544): FeatureStatus started ....
+06/19/2025 09:51:50 (738785-3010180544): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:51:50 (738785-3010180544): FeatureStatus started ....
+06/19/2025 09:51:50 (738785-3010180544): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:51:50 (738785-3010180544): FeatureStatus started ....
+06/19/2025 09:51:50 (738785-3010180544): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:51:50 (738785-3010180544): FeatureStatus started ....
+06/19/2025 09:51:50 (738785-3010180544): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:51:50 (738785-3010180544): FeatureStatus started ....
+06/19/2025 09:51:50 (738785-3010180544): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:51:50 (738785-3010180544): FeatureStatus started ....
+06/19/2025 09:51:50 (738785-3010180544): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:51:50 (738785-3010180544): FeatureStatus started ....
+06/19/2025 09:51:50 (738785-3010180544): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:51:51 (738785-3010180544): FeatureStatus started ....
+06/19/2025 09:51:51 (738785-3010180544): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:51:51 (738785-3010180544): FeatureStatus started ....
+06/19/2025 09:51:51 (738785-3010180544): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:51:51 (738785-3010180544): FeatureStatus started ....
+06/19/2025 09:51:51 (738785-3010180544): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:51:51 (738785-3010180544): FeatureStatus started ....
+06/19/2025 09:51:51 (738785-3010180544): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:51:51 (738785-3010180544): FeatureStatus started ....
+06/19/2025 09:51:51 (738785-3010180544): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:51:51 (738785-3010180544): FeatureStatus started ....
+06/19/2025 09:51:51 (738785-3010180544): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:51:51 (738684-3459641024): Recheck started ....
+06/19/2025 09:51:51 (738684-3459641024):   Checking feature Xcelium_Single_Core
+06/19/2025 09:51:51 (738684-3459641024):   Time spent in server Recheck was 0.
+06/19/2025 09:51:51 (738684-3459641024): Re-check completed with status 0 (time 0).
+06/19/2025 09:51:51 (738684-3459641024): Recheck started ....
+06/19/2025 09:51:51 (738684-3459641024):   Actual recheck skipped due to recheck interval...
+06/19/2025 09:51:51 (738684-3459641024): Re-check completed with status 0 (time 0).
+06/19/2025 09:51:51 (738785-3010180544): FeatureStatus started ....
+06/19/2025 09:51:51 (738785-3010180544): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:51:51 (738785-3010180544): FeatureStatus started ....
+06/19/2025 09:51:51 (738785-3010180544): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:51:52 (738785-3010180544): FeatureStatus started ....
+06/19/2025 09:51:52 (738785-3010180544): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:51:52 (738785-3010180544): FeatureStatus started ....
+06/19/2025 09:51:52 (738785-3010180544): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:51:52 (738785-3010180544): FeatureStatus started ....
+06/19/2025 09:51:52 (738785-3010180544): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:51:52 (738785-3010180544): FeatureStatus started ....
+06/19/2025 09:51:52 (738785-3010180544): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:51:52 (738785-3010180544): FeatureStatus started ....
+06/19/2025 09:51:52 (738785-3010180544): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:51:52 (738785-3010180544): FeatureStatus started ....
+06/19/2025 09:51:52 (738785-3010180544): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:51:53 (738785-3010180544): FeatureStatus started ....
+06/19/2025 09:51:53 (738785-3010180544): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:51:58 (738684-3459641024): Recheck started ....
+06/19/2025 09:51:58 (738684-3459641024):   Actual recheck skipped due to recheck interval...
+06/19/2025 09:51:58 (738684-3459641024): Re-check completed with status 0 (time 0).
+06/19/2025 09:54:04 (738684-3459641024): Recheck started ....
+06/19/2025 09:54:04 (738684-3459641024):   Actual recheck skipped due to recheck interval...
+06/19/2025 09:54:04 (738684-3459641024): Re-check completed with status 0 (time 0).
+06/19/2025 09:54:04 (738684-3459641024): Check-in started ....
+06/19/2025 09:54:04 (738684-3459641024): Creating a new job ...
+06/19/2025 09:54:04 (738684-3459641024): Validating server path: 5280@10.19.32.90
+06/19/2025 09:54:04 (738684-3459641024): Server path validation status: 0
+06/19/2025 09:54:04 (738684-3459641024):   Configuration of license path is '5280@10.19.32.90'.
+06/19/2025 09:54:04 (738684-3459641024):   Configuration of recheck interval minimum is 290.
+06/19/2025 09:54:04 (738684-3459641024):   Configuration of 2000000000 maximum retry calls.
+06/19/2025 09:54:04 (738684-3459641024):   Configuration of sleep time value of 0.
+06/19/2025 09:54:04 (738684-3459641024):   Configuration of display specification is ':1'.
+06/19/2025 09:54:04 (738684-3459641024):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/19/2025 09:54:04 (738684-3459641024):   (System spec would have been cc@ncdc-0053(/dev/pts/3) )
+06/19/2025 09:54:04 (738684-3459641024): Job creation completed with status 0 (time 0).
+06/19/2025 09:54:04 (738684-3459641024): Check-in of Xcelium_Single_Core completed with status 0 (time 0).
+06/19/2025 09:54:04 (738785-3010180544): Check-in started ....
+06/19/2025 09:54:04 (738785-3010180544): Creating a new job ...
+06/19/2025 09:54:04 (738785-3010180544): Validating server path: 5280@10.19.32.90
+06/19/2025 09:54:04 (738785-3010180544): Server path validation status: 0
+06/19/2025 09:54:04 (738785-3010180544):   Configuration of license path is '5280@10.19.32.90'.
+06/19/2025 09:54:04 (738785-3010180544):   Configuration of recheck interval minimum is 290.
+06/19/2025 09:54:04 (738785-3010180544):   Configuration of 2000000000 maximum retry calls.
+06/19/2025 09:54:04 (738785-3010180544):   Configuration of sleep time value of 0.
+06/19/2025 09:54:04 (738785-3010180544):   Configuration of display specification is ':1'.
+06/19/2025 09:54:04 (738785-3010180544):   Licenses will be checked out using cc@ncdc-0053(:1).
+06/19/2025 09:54:04 (738785-3010180544):   (System spec would have been cc@ncdc-0053(/dev/pts/3) )
+06/19/2025 09:54:04 (738785-3010180544): Job creation completed with status 0 (time 0).
+06/19/2025 09:54:04 (738785-3010180544): Check-in of Affirma_sim_analysis_env completed with status 0 (time 0).
+06/19/2025 09:54:04 (738785-3010180544): FeatureStatus started ....
+06/19/2025 09:54:04 (738785-3010180544): FeatureStatus of Cadence_System_Creator_Inter completed with status 1 (time 0).
+06/19/2025 09:54:04 (738785-3010180544): Exit started ....
+06/19/2025 09:54:04 (738785-3010180544): Exit completed with status 0 (time 0).
+06/19/2025 09:54:04 (738684-3459641024): Check-in started ....
+06/19/2025 09:54:04 (738684-3459641024): Check-in of Xcelium_Single_Core completed with status 0 (time 0).
+06/19/2025 09:54:04 (738684-3459641024): Exit started ....
+06/19/2025 09:54:04 (738684-3459641024): Exit completed with status 0 (time 0).

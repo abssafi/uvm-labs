@@ -1,0 +1,7 @@
+s1(18Jun2025:19:33:12):  xrun -f file.f -access +rwc 
+s2(18Jun2025:19:34:02):  xrun -f file.f -access +rwc 
+s3(18Jun2025:19:34:12):  xrun -f file.f -access +rwc 
+s4(18Jun2025:19:34:26):  xrun -f file.f -access +rwc -gui 
+s5(18Jun2025:19:35:38):  xrun -f file.f -access +rwc -gui 
+s6(19Jun2025:09:45:11):  xrun -f file.f -access +rwc -gui 
+s7(19Jun2025:09:54:10):  xrun -f file.f -access +rwc -gui 

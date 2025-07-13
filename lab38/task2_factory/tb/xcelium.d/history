@@ -1,0 +1,10 @@
+//
+// File created by:  xrun
+// Do not modify this file
+
+s1::(25Jun2025:17:54:36):( xrun -f file.f -access +rwc )
+s2::(25Jun2025:17:55:15):( xrun -f file.f -access +rwc )
+s3::(25Jun2025:17:56:22):( xrun -f file.f -access +rwc )
+s4::(25Jun2025:17:58:05):( xrun -f file.f -access +rwc )
+s5::(25Jun2025:18:09:39):( xrun -f file.f -access +rwc )
+s6::(25Jun2025:18:12:06):( xrun -f file.f -access +rwc )
